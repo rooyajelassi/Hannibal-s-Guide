@@ -1,18 +1,52 @@
 package com.example.hannibalsguide.presentation.landmarkdetail
 
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Info
-import androidx.compose.material3.*
-import androidx.compose.runtime.*
+import androidx.compose.material.icons.automirrored.rounded.ArrowBack
+import androidx.compose.material.icons.rounded.ChatBubbleOutline
+import androidx.compose.material.icons.rounded.LocationOn
+import androidx.compose.material3.AssistChip
+import androidx.compose.material3.Button
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.CenterAlignedTopAppBar
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.ElevatedButton
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilledIconButton
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.example.hannibalsguide.domain.model.Landmark
-
+import com.example.hannibalsguide.presentation.components.TunisianPatternBackground
+import com.example.hannibalsguide.ui.theme.HannibalsGuideTheme
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -28,16 +62,24 @@ fun DetailScreen(
 
     val lm = landmark
     if (lm == null) {
-        Scaffold(topBar = {
-            TopAppBar(
-                title = { Text("Landmark details") },
-                navigationIcon = { TextButton(onClick = onBack) { Text("Back") } }
-            )
-        }) { padding ->
-            Column(
+        Scaffold(
+            topBar = {
+                CenterAlignedTopAppBar(
+                    title = { Text("Landmark details") },
+                    navigationIcon = {
+                        FilledIconButton(onClick = onBack, modifier = Modifier.padding(start = 8.dp)) {
+                            Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = "Back")
+                        }
+                    }
+                )
+            }
+        ) { padding ->
+            Box(
                 modifier = Modifier.fillMaxSize().padding(padding),
-                verticalArrangement = Arrangement.Center
-            ) { CircularProgressIndicator(modifier = Modifier.padding(16.dp)) }
+                contentAlignment = Alignment.Center
+            ) {
+                CircularProgressIndicator()
+            }
         }
         return
     }
@@ -59,69 +101,130 @@ fun DetailContent(
     onOpenMap: (String) -> Unit
 ) {
     Scaffold(
+        containerColor = MaterialTheme.colorScheme.background,
         topBar = {
-            TopAppBar(
+            CenterAlignedTopAppBar(
                 title = { Text(landmark.name) },
-                navigationIcon = { TextButton(onClick = onBack) { Text("Back") } }
+                navigationIcon = {
+                    FilledIconButton(onClick = onBack, modifier = Modifier.padding(start = 8.dp)) {
+                        Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = "Back")
+                    }
+                }
             )
         },
-        floatingActionButton = {
-            ExtendedFloatingActionButton(
-                text = { Text("Ask Tarek") },
-                icon = { Icon(Icons.Filled.Info, contentDescription = "Ask Tarek") },
-                onClick = { onAskTarek(landmark.id) }
-            )
-        }
-    ) { padding ->
-        Column(
-            modifier = Modifier.fillMaxSize().padding(padding).padding(12.dp)
-        ) {
-            Text(text = landmark.city, style = MaterialTheme.typography.bodyMedium)
-            Spacer(modifier = Modifier.height(8.dp))
-
-            LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                items(landmark.images) { image ->
-                    AsyncImage(
-                        model = image,
-                        contentDescription = landmark.name,
-                        modifier = Modifier.size(220.dp, 140.dp)
-                    )
+        bottomBar = {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(12.dp),
+                horizontalArrangement = Arrangement.spacedBy(10.dp)
+            ) {
+                ElevatedButton(
+                    onClick = { onAskTarek(landmark.id) },
+                    modifier = Modifier.weight(1f)
+                ) {
+                    Icon(Icons.Rounded.ChatBubbleOutline, contentDescription = null)
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text("Ask Tarek")
+                }
+                Button(
+                    onClick = { onOpenMap(landmark.id) },
+                    modifier = Modifier.weight(1f)
+                ) {
+                    Icon(Icons.Rounded.LocationOn, contentDescription = null)
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text("View on Map")
                 }
             }
+        }
+    ) { padding ->
+        TunisianPatternBackground(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(padding)
+        ) {
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .verticalScroll(rememberScrollState())
+                    .padding(horizontal = 16.dp, vertical = 10.dp),
+                verticalArrangement = Arrangement.spacedBy(12.dp)
+            ) {
+                Text(text = landmark.city, style = MaterialTheme.typography.titleMedium)
 
-            Spacer(modifier = Modifier.height(12.dp))
-            Text("Description", style = MaterialTheme.typography.titleMedium)
-            Text(landmark.description)
+                val gallery = landmark.images.filter { it.isNotBlank() }
+                    .ifEmpty { listOf(landmark.imageUrl).filter { it.isNotBlank() } }
 
-            Spacer(modifier = Modifier.height(12.dp))
-            Text("History", style = MaterialTheme.typography.titleMedium)
-            Text(landmark.history)
+                LazyRow(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                    items(gallery) { image ->
+                        Card(shape = RoundedCornerShape(16.dp)) {
+                            AsyncImage(
+                                model = image,
+                                contentDescription = landmark.name,
+                                modifier = Modifier.size(260.dp, 165.dp),
+                                contentScale = ContentScale.Crop
+                            )
+                        }
+                    }
+                }
 
-            Spacer(modifier = Modifier.height(16.dp))
-            Button(onClick = { onOpenMap(landmark.id) }) { Text("View on Map") }
+                HeritageChips()
+                InfoCard("Cultural Story", landmark.description)
+                InfoCard("Echoes of History", landmark.history)
+                Spacer(modifier = Modifier.height(8.dp))
+            }
         }
     }
 }
 
-@Preview(showBackground = true, showSystemUi = true)
 @Composable
-private fun DetailContentPreview() {
-    val previewLandmark = Landmark(
-        id = "1",
-        name = "El Jem Amphitheatre",
-        city = "El Jem",
-        description = "Roman amphitheatre in Tunisia.",
-        history = "Built in the 3rd century AD.",
-        imageUrl = "https://upload.wikimedia.org/wikipedia/commons/7/7e/El_Jem_Amphitheatre.jpg",
-        images = listOf("https://upload.wikimedia.org/wikipedia/commons/7/7e/El_Jem_Amphitheatre.jpg"),
-        lat = 35.2964,
-        lng = 10.7069
-    )
+private fun HeritageChips() {
+    val chips = listOf("UNESCO Spirit", "Roman Legacy", "Amazigh Roots", "Mediterranean Soul")
+    LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+        items(chips) { chip ->
+            AssistChip(onClick = {}, label = { Text(chip) })
+        }
+    }
+}
 
-    DetailContent(
-        landmark = previewLandmark,
-        onBack = {},
-        onAskTarek = {},
-        onOpenMap = {}
-    )
+@Composable
+private fun InfoCard(title: String, text: String) {
+    Card(
+        shape = RoundedCornerShape(16.dp),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface)
+    ) {
+        Column(
+            modifier = Modifier.padding(14.dp),
+            verticalArrangement = Arrangement.spacedBy(6.dp)
+        ) {
+            Text(text = title, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+            Text(text = text, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        }
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun DetailPreview() {
+    HannibalsGuideTheme {
+        DetailContent(
+            landmark = Landmark(
+                id = "1",
+                name = "El Jem Amphitheatre",
+                city = "El Jem",
+                description = "Long cultural description...",
+                history = "Long historical background...",
+                imageUrl = "https://upload.wikimedia.org/wikipedia/commons/7/7e/El_Jem_Amphitheatre.jpg",
+                images = listOf(
+                    "https://upload.wikimedia.org/wikipedia/commons/7/7e/El_Jem_Amphitheatre.jpg"
+                ),
+                lat = 35.2964,
+                lng = 10.7069,
+                category = "Historical Site"
+            ),
+            onBack = {},
+            onAskTarek = {},
+            onOpenMap = {}
+        )
+    }
 }

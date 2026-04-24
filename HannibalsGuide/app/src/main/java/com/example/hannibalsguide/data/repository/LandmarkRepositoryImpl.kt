@@ -1,6 +1,6 @@
 package com.example.hannibalsguide.data.repository
 
-import com.example.hannibalsguide.data.LocalDataSource
+import com.example.hannibalsguide.data.local.LandmarkLocalDataSource
 import com.example.hannibalsguide.domain.model.Landmark
 import com.example.hannibalsguide.domain.repository.LandmarkRepository
 import javax.inject.Inject
@@ -8,14 +8,25 @@ import javax.inject.Singleton
 
 @Singleton
 class LandmarkRepositoryImpl @Inject constructor(
-    private val localDataSource: LocalDataSource
+    private val localDataSource: LandmarkLocalDataSource
 ) : LandmarkRepository {
 
-    override suspend fun getLandmarks(): List<Landmark> {
-        return localDataSource.getLandmarks()
+    private val cached: List<Landmark> by lazy { localDataSource.loadLandmarks() }
+
+    override suspend fun getLandmarks(): List<Landmark> = cached
+
+    override suspend fun searchLandmarks(query: String): List<Landmark> {
+        val q = query.trim().lowercase()
+        if (q.isBlank()) return cached
+
+        return cached.filter {
+            it.name.lowercase().contains(q) ||
+                    it.city.lowercase().contains(q) ||
+                    it.category.lowercase().contains(q)
+        }
     }
 
     override suspend fun getLandmarkById(id: String): Landmark? {
-        return localDataSource.getLandmarks().find { it.id == id }
+        return cached.firstOrNull { it.id == id }
     }
 }

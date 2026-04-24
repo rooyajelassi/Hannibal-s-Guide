@@ -9,5 +9,6 @@ data class Landmark(
     val imageUrl: String,
     val images: List<String>,
     val lat: Double,
-    val lng: Double
+    val lng: Double,
+    val category: String = "Historical Site"
 )

@@ -1,9 +1,7 @@
 package com.example.hannibalsguide.di
 
 import com.example.hannibalsguide.data.repository.ChatRepositoryImpl
-import com.example.hannibalsguide.data.repository.LandmarkRepositoryImpl
 import com.example.hannibalsguide.domain.repository.ChatRepository
-import com.example.hannibalsguide.domain.repository.LandmarkRepository
 import com.google.firebase.firestore.FirebaseFirestore
 import dagger.Binds
 import dagger.Module
@@ -26,14 +24,7 @@ abstract class RepositoryBindingModule {
 
     @Binds
     @Singleton
-    abstract fun bindLandmarkRepository(
-        impl: LandmarkRepositoryImpl
-    ): LandmarkRepository
-
-    @Binds
-    @Singleton
     abstract fun bindChatRepository(
         impl: ChatRepositoryImpl
     ): ChatRepository
 }
-
