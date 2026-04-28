@@ -15,7 +15,7 @@ val localProperties = Properties().apply {
         load(FileInputStream(file))
     }
 }
-val geminiApiKey = localProperties.getProperty("GEMINI_API_KEY", "")
+val groqApiKey = localProperties.getProperty("GROQ_API_KEY", "")
 
 android {
     namespace = "com.example.hannibalsguide"
@@ -31,7 +31,7 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables { useSupportLibrary = true }
 
-        resValue("string", "gemini_api_key", geminiApiKey)
+        resValue("string", "groq_api_key", groqApiKey)
     }
 
     buildTypes {
@@ -104,8 +104,8 @@ dependencies {
     implementation("com.google.firebase:firebase-firestore-ktx")
     implementation("com.google.firebase:firebase-storage-ktx")
 
-    // Gemini
-    implementation("com.google.ai.client.generativeai:generativeai:0.9.0")
+    // Networking
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     // OSM
     implementation("org.osmdroid:osmdroid-android:6.1.18")

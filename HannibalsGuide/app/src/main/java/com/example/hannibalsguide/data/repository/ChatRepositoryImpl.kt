@@ -1,6 +1,6 @@
 package com.example.hannibalsguide.data.repository
 
-import com.example.hannibalsguide.data.remote.GeminiApi
+import com.example.hannibalsguide.data.remote.GroqApi
 import com.example.hannibalsguide.domain.model.Landmark
 import com.example.hannibalsguide.domain.repository.ChatRepository
 import javax.inject.Inject
@@ -8,7 +8,7 @@ import javax.inject.Singleton
 
 @Singleton
 class ChatRepositoryImpl @Inject constructor(
-    private val geminiApi: GeminiApi
+    private val groqApi: GroqApi
 ) : ChatRepository {
 
     override suspend fun getChatResponse(landmark: Landmark, userQuestion: String): String {
@@ -24,6 +24,6 @@ class ChatRepositoryImpl @Inject constructor(
             User question: $userQuestion
         """.trimIndent()
 
-        return geminiApi.ask(prompt)
+        return groqApi.ask(prompt)
     }
 }
