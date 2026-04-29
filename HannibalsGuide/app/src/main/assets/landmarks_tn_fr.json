@@ -1,0 +1,850 @@
+[
+  {
+    "id": "el_jem_amphitheatre",
+    "name": "Amphitheatre d'El Jem",
+    "city": "El Jem",
+    "description": "L'amphitheatre d'El Jem se dresse au coeur des plaines de la Tunisie centrale comme l'un des monuments romains les plus impressionnants du monde. Son immense structure elliptique, ses hautes arcades et ses galeries ingenieuses montrent comment l'architecture du spectacle servait a la fois le divertissement et la symbolique politique en Afrique romaine. Parcourir ses couloirs voutes donne une forte impression d'echelle et de continuite, comme si l'edifice gardait encore l'echo des foules antiques. Aujourd'hui, il demeure non seulement un symbole archeologique, mais aussi une scene culturelle ou se rencontrent patrimoine, tourisme et memoire.",
+    "history": "Construit au IIIe siecle de notre ere dans la prospere cite romaine de Thysdrus, l'amphitheatre reflete la puissance economique des elites de l'huile d'olive en Afrique Proconsulaire. Il n'a probablement jamais ete acheve selon son plan le plus ambitieux, mais il est devenu l'un des plus grands amphitheatres de l'Empire romain. Au fil des siecles, il a assume plusieurs roles, notamment celui de refuge fortifie lors des periodes agitees. Les recherches et la conservation modernes en ont fait un monument phare du patrimoine tunisien, reconnu par l'UNESCO comme faisant partie du patrimoine mondial partage.",
+    "imageUrl": "https://www.mywanderlust.pl/wp-content/uploads/2023/04/el-jem-amphitheatre-tunisia-21.jpg",
+    "images": [
+      "https://wildyness.com/uploads/0000/145/2024/03/28/amphitheatre-of-el-jem-tunisia.png",
+      "https://carthagemagazine.com/wp-content/uploads/2021/03/El-Jem-Amphitheatre-1170x1170.jpg",
+      "https://www.mywanderlust.pl/wp-content/uploads/2023/04/el-jem-amphitheatre-tunisia-112.jpg"
+    ],
+    "lat": 35.2964,
+    "lng": 10.7069,
+    "category": "Site historique"
+  },
+  {
+    "id": "dougga",
+    "name": "Site archeologique de Dougga",
+    "city": "Beja",
+    "description": "Dougga est souvent decrite comme la petite ville romaine la plus complete d'Afrique du Nord, installee sur un coteau dominant des vallees fertiles. Le site comprend temples, thermes, maisons, theatre, rues pavees et espaces civiques qui revelent le rythme de la vie quotidienne dans l'Antiquite. Sa beaute tient autant a l'architecture qu'au paysage: les ruines de pierre doree se fondent dans la lumiere changeante de la campagne tunisienne. Pour les visiteurs, Dougga semble moins un ensemble de ruines isolees qu'un organisme urbain preserve.",
+    "history": "Connue dans l'Antiquite sous le nom de Thugga, la ville s'est developpee a travers les phases numide, punique et romaine, preservant les traces de plusieurs civilisations. Sous la domination romaine, elle prospera comme municipium avec des edifices publics monumentaux et des infrastructures sophistiquees. Les inscriptions et le plan urbain apportent des preuves essentielles sur la hierarchie sociale, la religion et l'administration en Afrique provinciale. Les fouilles des XIXe et XXe siecles ont revele l'integrite exceptionnelle du site, conduisant a la reconnaissance par l'UNESCO et a son statut de paysage archeologique majeur en Tunisie.",
+    "imageUrl": "https://wildyness.com/uploads/0000/145/2024/03/05/dougga-archeolocial-site-travel-guide.png",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiMvmeZeyU1MTquxvgfGUTQqvGmrdb49Krw&s",
+      "https://www.inp2020.tn/wp-content/uploads/2019/12/cromanaf8.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BFY6IncvFmT9pyGiOVBrfuM9bSZL4tz8MQ&s"
+    ],
+    "lat": 36.422,
+    "lng": 9.2199,
+    "category": "Site historique"
+  },
+  {
+    "id": "carthage_site",
+    "name": "Site archeologique de Carthage",
+    "city": "Carthage",
+    "description": "Perchee au-dessus du golfe de Tunis, Carthage est l'un des lieux les plus legendaires de la Mediterranee, ou mythe, empire et archeologie se croisent. Les visiteurs decouvrent une constellation de vestiges—ports, villas, thermes, basiliques et quartiers—repartis dans un tissu urbain moderne. L'experience ne se limite pas a une seule ruine, mais a un palimpseste historique ou chaque couche raconte un nouveau chapitre. Carthage incarne a la fois grandeur et fragilite, une ville plusieurs fois detruite, reconstruite et reinventee.",
+    "history": "Fondee par des colons pheniciens au premier millenaire avant notre ere, Carthage est devenue une puissance maritime et commerciale rivalisant avec Rome. Apres les guerres puniques et la destruction de la ville en 146 av. J.-C., Rome la reconstruisit comme un centre imperial majeur en Afrique. Plus tard, elle joua un role important dans l'histoire du christianisme avant que les transformations byzantines et islamiques ne deplacent les centres de pouvoir regional. Les recherches archeologiques des XIXe au XXIe siecles ont mis au jour des preuves puniques, romaines et tardo-antiques, faisant de Carthage un site cle pour comprendre la longue histoire tunisienne.",
+    "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_0037_0001-400-400-20151105154317.webp",
+    "images": [
+      "https://www.freetour.com/images/tours/51565/a-free-tour-of-carthage-archeological-site-06.jpg",
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/c3/e4/a4.jpg",
+      "https://guide-voyage-tunisie.com/wp-content/uploads/2022/11/carthage8-1024x768.webp"
+    ],
+    "lat": 36.8529,
+    "lng": 10.323,
+    "category": "Site historique"
+  },
+  {
+    "id": "antonine_baths",
+    "name": "Thermes d'Antonin",
+    "city": "Carthage",
+    "description": "Les Thermes d'Antonin constituent l'un des complexes thermaux romains les plus imposants de la rive sud de la Mediterranee. Meme en ruine, leurs enormes substructures et la plateforme ouverte sur la mer expriment l'ambition imperiale et la maitrise technique. Le site permet d'imaginer les rituels sociaux du bain, de l'exercice et de la conversation qui rythmaient la culture urbaine romaine. Le cadre, baigne de lumiere maritime et de vent, ajoute une dimension poetique qui rend le monument inoubliable.",
+    "history": "Construits au IIe siecle de notre ere sous le regne d'Antonin le Pieux, ces thermes faisaient partie des infrastructures monumentales de Carthage romaine. Leur echelle les place parmi les plus grands complexes balneaires connus du monde romain, alimentes par des systemes hydrauliques sophistiques et soutenus par une ingenierie robuste. Bien que les tremblements de terre, la spoliation et le temps aient reduit la superstructure, les travaux archeologiques ont clarifie le plan et la fonction originels. Le monument demeure un temoignage majeur de la vie urbaine romaine en Tunisie.",
+    "imageUrl": "https://i0.wp.com/www.engagingcultures.com/wp-content/uploads/2023/03/Carthage-Antonine-Baths-View-from-Grotto-Shutterstock.jpg?ssl=1",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUXlfw5_bUg1LDle2JpQn8eDMELV3IHmfxw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbRXrHld0jGHLrtoHVTDFZ49lzLd7g3bYSQ&s",
+      "https://static.wixstatic.com/media/abb612_cb0ddae230014da998bc14d3766b266b~mv2.jpg/v1/fill/w_925,h_599,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/abb612_cb0ddae230014da998bc14d3766b266b~mv2.jpg"
+    ],
+    "lat": 36.853,
+    "lng": 10.3317,
+    "category": "Site historique"
+  },
+  {
+    "id": "byrsa_hill",
+    "name": "Colline de Byrsa",
+    "city": "Carthage",
+    "description": "La colline de Byrsa offre une vue dominante sur Carthage et la mer, faisant d'elle a la fois un sommet strategique et un coeur symbolique de l'ancienne ville. Aujourd'hui, elle combine vestiges archeologiques, espaces museaux et panorama d'interpretation du paysage environnant. C'est l'un des meilleurs endroits pour comprendre comment la topographie a faconne le developpement urbain dans l'Antiquite. L'atmosphere marie contemplation et decouverte, reliant histoire politique et geographie vecue.",
+    "history": "Dans la memoire punique, Byrsa representait la citadelle de Carthage; a l'epoque romaine, la zone fut transformee par de nouveaux plans et une architecture monumentale. Les fouilles ont mis au jour des quartiers domestiques puniques et des interventions romaines, illustrant la transition dramatique de la ville apres la conquete. La colline a ensuite gagne une nouvelle importance par la mise en valeur museale et l'interpretation patrimoniale. Elle demeure essentielle pour reconstruire les identites pre-romaines et romaines de Carthage.",
+    "imageUrl": "https://novostar-hotels.com/en/wp-content/uploads/2021/07/1%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0-8.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lRxfhYRidNZcfCnpQ5-ddQfbUncPZBfO7Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrH9V09nS-EJ0up0RjjUxOVBrfuM9bSZL4tz8MQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRWQ3VBHrHXrPoEZnYChOxlyqXutnbsTxDQ&s"
+    ],
+    "lat": 36.8525,
+    "lng": 10.3236,
+    "category": "Site historique"
+  },
+  {
+    "id": "medina_tunis",
+    "name": "Medina de Tunis",
+    "city": "Tunis",
+    "description": "La Medina de Tunis est un dense tissu urbain de souks, mosquées, madrasas, palais, ateliers et ruelles residencielles qui capture l'esprit d'une capitale islamique sur plusieurs siecles. Son architecture varie des cours intimes aux facades ornees, revelant des influences ottomanes, andalouses et locales. Au-dela des monuments, les metiers vivants et les rythmes sociaux de la medina maintiennent l'histoire presente au quotidien. C'est a la fois un site patrimonial et un ecosysteme culturel vibrant.",
+    "history": "Depuis la periode medievale, la medina s'est developpee comme centre politique, religieux et commercial de la region. Les dynasties successives—hafside, ottomane et husseinite—ont laisse des strates architecturales et institutionnelles a travers la vieille ville. Les transformations de l'epoque coloniale ont deplace le pouvoir administratif, mais la medina a conserve une importance symbolique et economique. Reconnue par l'UNESCO, elle est aujourd'hui un foyer de conservation, de renouveau artisanal et d'etudes du patrimoine urbain.",
+    "imageUrl": "https://www.kanaga-at.com/wp-content/uploads/2021/07/tunisia_tunisi_foto_i._fornasiero.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGamko6eo8IIuy55fbqQc4y5ioM_GcEHXwA&s",
+      "https://imandarin.fr/images/stories/tunisie/tunisie-55.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJIVRwy-mPyGeyYNecPsG5kCqtbGf6wFDDA&s"
+    ],
+    "lat": 36.7992,
+    "lng": 10.171,
+    "category": "Site historique"
+  },
+  {
+    "id": "zitouna_mosque",
+    "name": "Mosquee Zitouna",
+    "city": "Tunis",
+    "description": "La mosquee Zitouna est l'un des plus importants monuments religieux et intellectuels de Tunisie, au coeur de l'ancienne capitale. Ses salles de priere, sa cour et sa sobriete architecturale incarnent une longue tradition d'enseignement islamique et d'autorite urbaine. Sa presence structure la medina environnante, ou commerce, erudition et devotion se sont longtemps entrelaces. Pour de nombreux visiteurs, elle symbolise la continuite entre foi, savoir et identite tunisienne.",
+    "history": "Fondee aux premiers siecles de l'Islam et agrandie au fil du temps, la Zitouna est devenue un centre majeur d'enseignement au Maghreb. Sa tradition savante a influence la culture juridique, linguistique et theologique de l'Afrique du Nord. Des renovations successives ont preserve les elements essentiels tout en adaptant le monument aux contextes sociaux changeants. Aujourd'hui, elle reste un repere spirituel et un point de reference pour l'histoire intellectuelle et religieuse de la Tunisie.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm22ulT0H5fsgN8GDH1elWpM9LXVqGZ8GSlQ&s",
+    "images": [
+      "https://carthagemagazine.com/wp-content/uploads/2021/06/Ez-Zitouna-Mosque-1024x683.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWe4ulhvO1qwjUJkSglDRslfWayGGPPuviA&s",
+      "https://madainproject.com/content/media/collect/dome_zaytuna_mosque_tunis_medina_881921.jpg"
+    ],
+    "lat": 36.7987,
+    "lng": 10.1697,
+    "category": "Site historique"
+  },
+  {
+    "id": "kairouan_great_mosque",
+    "name": "Grande Mosquee de Kairouan",
+    "city": "Kairouan",
+    "description": "La Grande Mosquee de Kairouan est un chef-d'oeuvre de l'architecture islamique primitive et l'un des monuments religieux les plus veneres d'Afrique du Nord. Sa vaste cour, son minaret et sa salle hypostyle creent un puissant sentiment de geometrie sacree et d'ordre civique. La mosquee ancre l'identite spirituelle de la ville et attire des visiteurs en quete de beaute et de profondeur historique. Elle demeure un symbole majeur du patrimoine islamique tunisien.",
+    "history": "Kairouan fut fondee au VIIe siecle, et la mosquee evolua par de grandes reconstructions et extensions, notamment sous le patronage aghlabide. Elle joua un role cle dans la transmission du savoir religieux et des modeles artistiques a travers le Maghreb et au-dela. Des elements architecturaux tels que des colonnes antiques remployees illustrent la continuite et la transformation entre les mondes classique et islamique. Le monument reste central pour la preservation du patrimoine et pour comprendre la formation des Etats medievaux en Ifriqiya.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg/1280px-Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg",
+    "images": [
+      "https://scenehome.com/Content/Admin/Uploads/Articles/ArticlesMainPhoto/30826/91fded5f-f58d-4548-bcea-f6077ce5f99e.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJDRXTwuB1IDMqPpDg7Se2PV3wMxv-3QWwQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdF7ymyn2BpVfPCdYQeiivjvDvRMNdX_Mmlg&s"
+    ],
+    "lat": 35.6781,
+    "lng": 10.0963,
+    "category": "Site historique"
+  },
+  {
+    "id": "medina_kairouan",
+    "name": "Medina de Kairouan",
+    "city": "Kairouan",
+    "description": "La medina de Kairouan associe prestige religieux, traditions artisanales et memoire urbaine dans un reseau de ruelles et de quartiers historiques. Ses facades blanches, ses sanctuaires domes et ses marches offrent une atmosphere urbaine distincte des medinas cotieres. Les visiteurs y rencontrent a la fois des architectures sacrees monumentales et des espaces vernaculaires intimes. La medina reste une reference culturelle majeure dans l'identite collective tunisienne.",
+    "history": "Parmi les premieres grandes villes islamiques d'Afrique du Nord, Kairouan fut un centre politique et spirituel durant la periode medievale. Sa croissance urbaine refleta l'influence des dynasties dirigeantes, des institutions religieuses et des liens commerciaux transsahariens et mediterraneens. Au fil des siecles, la ville conserva son importance symbolique meme lorsque les capitales politiques se deplacaient. Le classement UNESCO a reconnu non seulement les grands monuments mais aussi le tissu historique de la vieille ville.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0-Ns5aATrHXrqS9OT428UiopqwBQ40O2IQ&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vue_a%C3%A9rienne_de_la_Grande_Mosqu%C3%A9e_de_Kairouan%2C_en_Tunisie.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntGv3V-NLHX7ZtKuF6-74jjmQzcvzz6qAdQ&s",
+      "https://tunisie.co/uploads/images/content/medina-170217-3.jpg"
+    ],
+    "lat": 35.6794,
+    "lng": 10.1013,
+    "category": "Site historique"
+  },
+  {
+    "id": "sousse_medina",
+    "name": "Medina de Sousse",
+    "city": "Sousse",
+    "description": "La medina de Sousse est une vieille ville cotiere fortifiee ou se croisent commerce maritime, defense et vie urbaine depuis des siecles. Ses remparts, ses portes, ses edifices religieux et son reseau de ruelles compact forment un ensemble historique coherent. La proximite de la mer lui donne un caractere strategique et une atmosphere distincte des centres interieurs. Elle demeure l'un des paysages urbains historiques les plus evocateurs de Tunisie.",
+    "history": "Developpee a partir de la periode islamique primitive et faconnee par les Aghlabides et les dynasties suivantes, Sousse devint un port cle et un noeud defensif. Son ribat, sa kasbah et ses fortifications traduisent une architecture militaire adaptee aux realites cotieres. Les fonctions commerciales et artisanales ont assure la continuite urbaine a travers les changements politiques. La reconnaissance par l'UNESCO souligne sa preservation exceptionnelle et son importance dans l'histoire urbaine mediterraneenne.",
+    "imageUrl": "https://i0.wp.com/www.engagingcultures.com/wp-content/uploads/2019/09/The-Sousse-Grand-Mosque-Viewed-From-Above.jpg?ssl=1",
+    "images": [
+      "https://c8.alamy.com/compfr/cmmwnh/la-medina-sousse-le-sahel-la-tunisie-l-afrique-du-nord-afrique-cmmwnh.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eZ_uIhSS0T5k7C_v3_TX5QTGplcz4YchIg&s",
+      "https://www.pelago.com/img/products/TN-Tunisia/private-tour-of-medina-of-kantaoui-and-hergla/04098d97-4a67-4453-8bcd-2b793c42f6e8_private-tour-of-medina-of-kantaoui-and-hergla.jpg"
+    ],
+    "lat": 35.826,
+    "lng": 10.6369,
+    "category": "Site historique"
+  },
+  {
+    "id": "ribat_sousse",
+    "name": "Ribat de Sousse",
+    "city": "Sousse",
+    "description": "Le ribat de Sousse est une forteresse-monastere compacte mais remarquable, qui incarne l'architecture defensive de l'Islam primitif. Ses tours, sa cour et son austere pierre expriment a la fois vigilance et discipline spirituelle. Situe pres de la medina et du front de mer, il aide a visualiser les reseaux cotiers militarises du Maghreb medieval. Le monument reste l'une des silhouettes les plus iconiques de la ville.",
+    "history": "Construit aux premiers siecles islamiques et modifie au fil du temps, le ribat servait a la defense strategique et peut-etre a des fonctions religieuses liees a la vigilance frontaliere. Son architecture reflete la planification militaire aghlabide a travers la cote d'Ifriqiya. Les campagnes de restauration ont stabilise la structure tout en preservant les elements historiques majeurs. Il fonctionne aujourd'hui comme un site patrimonial et interpretatif essentiel dans l'ensemble UNESCO de Sousse.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCVwp6Tz9A87h5GWtx89Ib4zUpNMA4BO1oQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRluJdEdUwLEWm3mRiQbkdTduqnXiiQ4U-_Tg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmoGH3gi8-9N61T2vHqiwRST0E8BMuGASgQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpYf6DTlIY7qCW5S7U-otuHm8sxmNIcC83w&s"
+    ],
+    "lat": 35.8282,
+    "lng": 10.6412,
+    "category": "Site historique"
+  },
+  {
+    "id": "ribat_monastir",
+    "name": "Ribat de Monastir",
+    "city": "Monastir",
+    "description": "Dominant le littoral de Monastir, ce ribat est l'une des forteresses les plus photogeniques et historquement marquantes de Tunisie. Ses murs, ses tours et ses points de vue eleves offrent une rencontre dramatique entre la pierre et la mer ouverte. Les visiteurs decouvrent a la fois l'histoire militaire et une atmosphere cinematographique, le monument ayant servi de decor a plusieurs productions internationales. Il constitue une porte d'entree vivante vers le patrimoine cotier tunisien.",
+    "history": "Fonde a l'epoque islamique primitive et agrandi aux siecles suivants, le ribat de Monastir faisait partie d'une chaine de defenses le long de la cote. Il surveillait les approches maritimes tout en symbolisant l'autorite de l'Etat et la piete frontaliere. Les reparations successives ont modifie son profil tout en conservant sa logique defensive. Il est aujourd'hui preserve comme un monument cle de l'architecture medievale tunisienne et de l'identite nationale.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEVALrLs0UsZ8VZTpKsB22Xk-sTA2Fbx-Lw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHb0kCXNkxzsrJKm-faMr5XsPayW7pzDY0g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrDLj2zG-P0P5_aR8u7cOea7buaPHg184rQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHb0kCXNkxzsrJKm-faMr5XsPayW7pzDY0g&s"
+    ],
+    "lat": 35.7774,
+    "lng": 10.8343,
+    "category": "Site historique"
+  },
+  {
+    "id": "kerkouane",
+    "name": "Site archeologique de Kerkouane",
+    "city": "Nabeul",
+    "description": "Kerkouane est l'un des rares sites urbains puniques non recouverts par des reconstructions romaines, ce qui lui confere une valeur archeologique exceptionnelle. Les vestiges revelent le plan des rues, des espaces domestiques et une culture materielle directement liee a la civilisation carthaginoise. Situe pres des cotes du Cap Bon, le site associe profondeur historique et cadre naturel serein. Il offre une fenetre unique sur la vie urbaine pre-romaine en Tunisie.",
+    "history": "Occupe a l'epoque punique et abandonne avant la reoccupation romaine, Kerkouane preserve des preuves architecturales et urbaines distinctes des stratifications imperiales ulterieures. Les campagnes archeologiques ont mis au jour des plans d'habitat, des artefacts et des traces artisanales qui ont transforme la comprehension de la societe punique. Sa rarete et son integrite ont conduit a son inscription au patrimoine mondial de l'UNESCO. Le site demeure central pour les debats sur l'identite phenico-punique et les reseaux d'echanges mediterraneens.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz3MJrUrlHVSWKeIaGgaK_o0gsi7T0y8eQQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Wv6Y_hGx7U7rDoE1np4bqClY0iLTpMsPyw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUdBpqkGeavwZ_UieG0mETK3VSvoawClOgJg&s",
+      "https://www.christravelblog.com/wp-content/uploads/2020/02/kerkouane-punic-city-house-seaview-tunisia-kerkouane-kelibia-day-trip-from-sousse-tunis-IMG_5459.jpg"
+    ],
+    "lat": 36.9437,
+    "lng": 11.0978,
+    "category": "Site historique"
+  },
+  {
+    "id": "bulla_regia",
+    "name": "Bulla Regia",
+    "city": "Jendouba",
+    "description": "Bulla Regia est celebre pour ses maisons romaines souterraines, ou des pieces fraiches demonstrent une adaptation ingenieuse au climat. Les visiteurs passent des ruines de surface aux niveaux inferieurs preserves, ornes de mosaïques et de details architecturaux. Ce tissu urbain inhabituel donne au site une identite distincte parmi les sites archeologiques nord-africains. Il est a la fois important pour la recherche et inoubliable sur le plan de l'experience.",
+    "history": "D'abord centre numide puis ville romaine, Bulla Regia a prospere dans le reseau agricole et administratif de l'interieur tunisien. Les residences aristocratiques partiellement souterraines datent surtout de l'epoque imperiale romaine et refleten une reponse locale a l'environnement. Les fouilles ont revele de riches programmes de mosaïques et des plans domestiques qui eclairent les questions de classe, de confort et de climat. Les efforts de conservation cherchent a equilibrer accessibilite et preservation de ces espaces fragiles.",
+    "imageUrl": "https://www.inp2020.tn/wp-content/uploads/2021/05/bullaregia.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2BR3guTlvV7DU-agzbsXcCGsntIcnd6H3A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OnaWYmr1IF2wFIGnPIjvVk8fX4YirrR4Xw&s",
+      "https://cdn2.webmanagercenter.com/wmc/wp-content/uploads/2018/04/site-archeologique-bullaregia.jpg"
+    ],
+    "lat": 36.561,
+    "lng": 8.7592,
+    "category": "Site historique"
+  },
+  {
+    "id": "sbeitla_sufetula",
+    "name": "Sbeitla (Sufetula)",
+    "city": "Sbeitla",
+    "description": "Sbeitla presente l'un des ensembles archeologiques romano-byzantins les plus impressionnants de Tunisie, avec de larges rues, des espaces civiques et des temples encore visibles a l'horizon. Le forum monumental est particulierement remarquable par sa composition equilibree et son etat de conservation. Le site permet de suivre les transitions entre la vie civique romaine païenne et la fin de l'Antiquite chretienne. Son ampleur et sa lisibilite en font un lieu ideal pour comprendre l'evolution urbaine sur plusieurs epoques.",
+    "history": "Connue sous le nom de Sufetula a l'epoque romaine, la ville s'est developpee grace au patronage imperial et a la prosperite regionale. Ses monuments comprennent temples du capitole, thermes, eglises et fortifications byzantines, revelant une occupation durable. Les recherches archeologiques ont documente la continuite architecturale et le changement religieux entre les IIe et VIIe siecles de notre ere. Aujourd'hui, le site est un point de reference essentiel pour l'histoire tardo-antique du centre tunisien.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxbdSpmBXVG_Gq8vqkrRqDbBAcOq1AFHYgQ&s",
+    "images": [
+      "https://www.guidesulysse.com/imageswebp/destinations/iStock-540847436.webp",
+      "https://destination-tunis.fr/wp-content/uploads/Forum-Sbeitla.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvRNQyhB6hLCXII_V-sLxkckdwC83uxQ-Rw&s"
+    ],
+    "lat": 35.2378,
+    "lng": 9.1246,
+    "category": "Site historique"
+  },
+  {
+    "id": "utina_outhina",
+    "name": "Uthina (Oudhna)",
+    "city": "Ben Arous",
+    "description": "Uthina offre un vaste paysage archeologique comprenant un amphitheatre, un capitole, des thermes et des secteurs residentiels pres de Tunis. Son terrain partiellement degage donne l'impression d'une ville qui emerge de la terre, invitant a la fois l'imagination et la recherche. L'amphitheatre, dont la structure inferieure est bien preservee, est particulierement notable et atmospherique. Le site incarne la richesse encore peu exploitee de l'arriere-pays archeologique tunisien.",
+    "history": "Etablie dans l'Antiquite et formalisee comme colonie romaine, Uthina est devenue un centre regional important lie a la production agricole et a l'administration imperiale. Les fouilles ont revele une architecture monumentale et domestique s'etendant sur les periodes romaine et suivantes. Une grande partie du site reste peu exploree, ce qui en fait un enjeu majeur pour les recherches futures. Uthina apporte des preuves essentielles sur les reseaux urbains autour de l'ancienne Carthage.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8e/4b/ee/uthina-oudhna.jpg?w=900&h=500&s=1",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtE37OrCCy-iWkYhNyjjPEyJEOYnhC2RHFQA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzoZ7HKdou1pyT2SmG_LXoud97cxkWQiBEw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7u2KgzGF0gjBgZZJIexopXCJyqa9mq7feA&s"
+    ],
+    "lat": 36.673,
+    "lng": 10.033,
+    "category": "Site historique"
+  },
+  {
+    "id": "chemtou",
+    "name": "Chemtou (Simitthus)",
+    "city": "Jendouba",
+    "description": "Chemtou est celebre pour ses carrieres antiques de marbre, ou la geologie et le pouvoir imperial se rencontrent de facon spectaculaire. Le marbre jaune numidien extrait ici a voyage a travers l'Empire romain pour decorer des edifices prestigieux. Les vestiges archeologiques environnants et le centre d'interpretation permettent de relier la production industrielle a l'economie politique. Chemtou revele le role de la Tunisie dans l'approvisionnement en materiaux de luxe des reseaux imperiaux.",
+    "history": "Connu sous le nom de Simitthus a l'epoque romaine, le site gagna une importance strategique pour ses ressources en pierre, notamment le marbre giallo antico. L'extraction, le transport et l'organisation du travail en firent un paysage industriel majeur de l'Antiquite. Les etudes archeologiques et archeometriques ont retrace les routes de diffusion de cette pierre bien au-dela de l'Afrique du Nord. Le site constitue aujourd'hui un cas d'etude cle pour l'exploitation des ressources et la logistique imperiale.",
+    "imageUrl": "https://www.inp2020.tn/wp-content/uploads/2022/06/chimtou.jpg",
+    "images": [
+      "https://img9.digsty.com/RoS0sIqaqVnv1MjU8-uVyJrgQdV0JJAK58K1zC33ehw/rs:fill:230:230:1/g:fp:0.5:0.5/czM6Ly9hcm91bmR1cy8xNC85NjM2OTI3LTYwZWViMTIyLmpwZw.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chimtou%2C_numidische_Grabbauten_unter_r%C3%B6mischem_Forum.jpg/250px-Chimtou%2C_numidische_Grabbauten_unter_r%C3%B6mischem_Forum.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDA5OmYFY_zy8NB_3Z8zhIfN2BcDfuR23--Q&s"
+    ],
+    "lat": 36.479,
+    "lng": 8.573,
+    "category": "Site historique"
+  },
+  {
+    "id": "makthar",
+    "name": "Makthar (Mactaris)",
+    "city": "Siliana",
+    "description": "Makthar rassemble des traces megalithiques, un heritage numide et des vestiges urbains romains dans un cadre montagneux d'un grand interet archeologique. Les visiteurs y rencontrent arcs, thermes et structures civiques qui illustrent la continuite a travers plusieurs periodes culturelles. L'environnement en altitude et les monuments disperses creent une atmosfere contemplative distincte des ruines urbaines denses. C'est une destination ideale pour comprendre les strates historiques profondes de la Tunisie interieure.",
+    "history": "L'ancienne Mactaris a evolue de traditions d'habitat pre-romaines vers une ville romanisee dotee d'architectures publiques et d'inscriptions sur la vie civique. Sa position strategique facilita l'interaction entre les communautes locales et les structures imperiales. Les campagnes archeologiques ont revele monuments funeraires, temples et espaces publics couvrant plusieurs siecles. Makthar reste essentiel pour etudier les transitions entre les systemes socio-politiques autochtones et romains.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYFx_3EmuQJNhRn5xhdwdaNNzIxflfbi9ig&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Makthar_arc_Trajan.jpg/250px-Makthar_arc_Trajan.jpg",
+      "https://www.inp2020.tn/wp-content/uploads/2020/09/grands_Thermes-_Sud-Est-1024x679.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBF6cxPMy3kFxTBGPuGuDmEl0JDIEokPoCw&s"
+    ],
+    "lat": 35.857,
+    "lng": 9.206,
+    "category": "Site historique"
+  },
+  {
+    "id": "thuburbo_majus",
+    "name": "Thuburbo Majus",
+    "city": "Zaghouan",
+    "description": "Thuburbo Majus est un vaste site romain comprenant capitole, forum, thermes et traces residentielles dans un paysage de plateau ouvert. Son plan large permet d'apprecier l'urbanisme et la monumentalite au-dela des champs de ruines compacts. Les vestiges expriment a la fois la grandeur civique et la vie pratique quotidienne dans la Rome provinciale. C'est une etape de choix pour explorer l'heritage classique du nord tunisien.",
+    "history": "Le site s'est developpe a partir de racines numides et puniques, atteignant sa maturite urbaine sous l'administration romaine. Les monuments publics et les inscriptions indiquent des elites locales investissant dans l'architecture civique et l'affiliation imperiale. Les fouilles et travaux de consolidation du XXe siecle ont clarifie les phases d'expansion et de declin. Thuburbo Majus contribue aujourd'hui aux etudes comparatives des villes romaines de taille moyenne en Afrique.",
+    "imageUrl": "https://voyage-tunisie.info/wp-content/uploads/2017/12/THUBURBO-MAJUS4-800x500.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzbJAbpsycBdZLcah4hkQbe5pdD-2G321_w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-OmThAhRcpWLc5dUHdLiViqcs0es5UPBYg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2CNhL1YFUVfsbEiedKb0-F32205deUIBqw&s"
+    ],
+    "lat": 36.506,
+    "lng": 10.004,
+    "category": "Site historique"
+  },
+  {
+    "id": "haidra_ammaedara",
+    "name": "Haidra (Ammaedara)",
+    "city": "Kasserine",
+    "description": "Haidra conserve d'importants vestiges romains et byzantins dans l'ouest tunisien, notamment des structures militaires et civiques liees aux dynamiques frontalières. Le cadre austere, proche des routes de montagne, souligne sa fonction strategique dans l'Antiquite. Moins touristique que les sites cotiers, le lieu porte une valeur historique exceptionnelle pour l'histoire militaire et administrative. Haidra recompense les visiteurs interesses par un patrimoine moins connu mais fondamental.",
+    "history": "Connue sous le nom d'Ammaedara, la ville commence comme colonie militaire romaine puis devient un centre regional important. Sa position pres des axes interieurs lui donna une importance logistique durant les periodes romaine et tardo-antique. Les vestiges comprennent architectures triomphales, eglises et elements defensifs refletant les changements politiques. Le site montre comment les regions frontalières furent integrees aux systemes imperiaux.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL4BdZYSB2TpSm2SKQyZi1eNTX3vF_yiddaQ&s",
+    "images": [
+      "https://www.nachoua.com/Avril-2008/Avril2008_233.JPG",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshzgLPGTnl7yJMFBJih4Z8ZwTkYkyesXU3g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMnAoeWgldkZhy0l4HKhSkgqWiQEgQfbDoQ&s"
+    ],
+    "lat": 35.568,
+    "lng": 8.448,
+    "category": "Site historique"
+  },
+  {
+    "id": "ksar_ouled_soltane",
+    "name": "Ksar Ouled Soltane",
+    "city": "Tataouine",
+    "description": "Ksar Ouled Soltane est un spectaculaire grenier collectif a plusieurs niveaux dans le sud tunisien, celebre pour ses ghorfas voutees et son architecture en terre. Les formes repetitives des cellules de stockage superposees creent un paysage geometrique puissant. Il incarne l'organisation communautaire, l'adaptation aux milieux arides et les traditions d'ingenierie vernaculaire. Le site est devenu connu a l'international tout en restant profondement ancre dans le patrimoine local.",
+    "history": "Construit et agrandi sur plusieurs siecles par des communautes amazighes, le ksar servait de stockage collectif fortifie pour les grains et les biens precieux. Son architecture reflete la cooperation sociale, la gestion des ressources et les besoins defensifs d'une region semi-aride. A l'epoque moderne, la visibilite cinematographique a stimule le tourisme et l'attention patrimoniale. Il reste un monument cle pour comprendre l'identite architecturale du sud tunisien.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrlEkYlI4xJf9INljrw4GFAgZMR4BpwVU54w&s",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5c/55/d6/cour-interieur-du-ksar.jpg?w=1200&h=-1&s=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3sATNiSKptp5MYqOC-mfqsJfhN2JWgGXfA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx56snqO8J_jKNrYSlFuD1YuIzahYWH2uJMA&s"
+    ],
+    "lat": 32.952,
+    "lng": 10.304,
+    "category": "Site historique"
+  },
+  {
+    "id": "chenini",
+    "name": "Chenini",
+    "city": "Tataouine",
+    "description": "Chenini est un village amazigh perche, connu pour son cadre spectaculaire, ses espaces troglodytes et son architecture en terre stratifiee dominant la plaine desertique. Son environnement bati semble organiquement lie au relief rocheux, creant une harmonie rare entre habitat et paysage. Les visiteurs y experimentent un patrimoine spirituel et domestique a travers mosquées, habitations et chemins. Chenini est l'un des paysages culturels les plus evocateurs du sud tunisien.",
+    "history": "Le village s'est developpe comme une implantation defensive et communautaire pour des populations amazighes faisant face a l'instabilite regionale et aux contraintes environnementales. Au fil des generations, l'architecture s'est adaptee au climat, aux besoins de stockage et a l'organisation sociale. Bien que la modernisation ait modifie certains usages, Chenini a conserve une forte valeur patrimoniale et symbolique. Il est aujourd'hui central pour la preservation et l'interpretation de la memoire amazighe en Tunisie.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1DvrWZbS1ZU9mkef6VZyT_-3YMc7aUQ9Tw&s",
+    "images": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/13/e3/0f/93.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xHl45Kmvu9z7e8S0A1j1NOnlApVx1FYwLA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3xk5GbUnfTy4T2Q5siigul8WtnQj64l0Kw&s"
+    ],
+    "lat": 32.927,
+    "lng": 10.272,
+    "category": "Site historique"
+  },
+  {
+    "id": "matmata",
+    "name": "Habitations troglodytes de Matmata",
+    "city": "Gabes",
+    "description": "Matmata est celebre pour ses maisons creusees autour de cours souterraines, offrant des espaces naturellement isoles dans un climat rude. L'architecture y est a la fois pratique et distinctive, illustrant une adaptation environnementale remarquable par le design vernaculaire. Les visiteurs decouvrent un univers domestique unique ou forme, fonction et identite sont intimement liees. La region a aussi gagne une renommée mondiale grace au cinema, renforcant son profil culturel.",
+    "history": "L'habitat troglodyte de Matmata reflete des pratiques d'installation amazighes anciennes, adaptees a l'aridite et aux extremes de temperature. Les maisons s'organisent autour de fosses centrales, avec des pieces creusees radialement pour assurer confort thermique et intimite. A la fin du XXe siecle, l'exposition mediatique a augmente le tourisme, apportant opportunites et enjeux de conservation. Matmata se situe aujourd'hui au croisement de la culture vivante, de la gestion patrimoniale et de l'imaginaire global.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PrIjaEDqQMng-A7SMSorstFrgJLYfDzVKg&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmp5KTBS6_WO0E-Gei_HWnWw0BVpIgols4TQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM_SNZYXdSYPJnVJQ6AD3i7JSNTVR0E3OPw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCTX1WJh9a3Ey05ntv9-zyAaFVlHhqFu8FA&s"
+    ],
+    "lat": 33.544,
+    "lng": 9.971,
+    "category": "Site historique"
+  },
+  {
+    "id": "mos_espa",
+    "name": "Ksour de la region de Medenine",
+    "city": "Medenine",
+    "description": "Les ksour du sud-est tunisien—greniers fortifies et architectures de stockage—constituent un remarquable reseau patrimonial lie aux modes de vie amazighs et transsahariens. Leurs modules voutes repetitifs, leurs materiaux terreux et leur implantation en hauteur produisent une identite architecturale unique. Ces structures expriment la cooperation economique, la resilience territoriale et l'adaptation aux realites semi-desertiques. Ensemble, elles representent une archive vivante de l'histoire sociale du sud tunisien.",
+    "history": "Developpes sur plusieurs siecles, les ksour servaient d'infrastructures de stockage communal et de defense pour des groupes ruraux et semi-nomades. Ils etaient etroitement lies aux routes commerciales, a la mobilite saisonniere et a l'organisation par lignage. Les transformations coloniales et post-coloniales ont modifie leur fonction economique, mais beaucoup ont survécu comme sites patrimoniaux. La documentation et la restauration en cours visent a preserver cette tradition architecturale pour les generations futures.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4fg3wjfw0xaD7e3QsCROxQmQUC_ixjZsug&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdda3L8qzQHF_PU97BR77WOHrdgxokTnXUrQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cjLJgJXClKgOUtp17Wjfv0TgXQDfx--OOg&s",
+      "https://news.gnet.tn/wp-content/uploads/2025/02/medenine.jpg"
+    ],
+    "lat": 33.354,
+    "lng": 10.505,
+    "category": "Site historique"
+  },
+  {
+    "id": "djerba_ghriba",
+    "name": "Synagogue El Ghriba",
+    "city": "Djerba",
+    "description": "El Ghriba est l'une des synagogues les plus anciennes et les plus significatives d'Afrique du Nord, situee sur l'ile de Djerba. Son architecture blanche et bleue et son atmosphere spirituelle en font un lieu important de pelerinage et de patrimoine intercommunautaire. Le monument reflete la longue histoire de pluralisme religieux et de coexistence culturelle en Tunisie. Il demeure un lieu ou foi, memoire et identite sont activement vecues.",
+    "history": "Les origines de la synagogue sont associees a l'ancienne presence juive dans la region, les structures actuelles reflétant des reconstructions et expansions ulterieures. Au fil des siecles, elle est devenue une destination centrale de pelerinage annuel et un symbole du patrimoine juif en Tunisie. Sa resilience face aux changements politiques et sociaux souligne la force des traditions minoritaires en Afrique du Nord. Aujourd'hui, El Ghriba est reconnue comme un monument majeur de la pluralite historique tunisienne.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhCYMeacykSP00FgEJVSk_D6glEqrda-WQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfkjWaicJ4TIMjy2I55LT2zfUNL2TESbSMw&s",
+      "https://www.ruedusejour.com/wp-content/uploads/2009/10/p9030583.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DuQsQYozu-8073Rx0Z1712aVKjdSbO4lyA&s"
+    ],
+    "lat": 33.807,
+    "lng": 10.855,
+    "category": "Site historique"
+  },
+  {
+    "id": "utique",
+    "name": "Site archeologique d'Utique",
+    "city": "Bizerte",
+    "description": "Utique est l'un des plus anciens etablissements pheniciens d'Afrique du Nord et un site cle pour comprendre les transitions pre-carthaginoises et romaines. Le parc archeologique presente des vestiges domestiques, des thermes et des traces urbaines dans un environnement rural paisible. Bien que moins monumental que d'autres sites, sa profondeur historique est exceptionnelle. Utique offre une rencontre plus calme mais profondement importante avec l'histoire mediterraneenne ancienne de la Tunisie.",
+    "history": "Fondee dans l'Antiquite par des colons pheniciens, Utique a precede Carthage et fut ensuite integree aux structures politiques romaines. Les evolutions du littoral et des cours d'eau ont modifie au fil des siecles son rapport a la mer. Les fouilles ont revele des sequences d'occupation longues qui eclairent l'evolution du commerce, de la gouvernance et de la vie urbaine. Utique demeure essentielle pour reconstituer les premiers reseaux coloniaux de la Mediterranee occidentale.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b5/b0/c3/utica.jpg?w=900&h=500&s=1",
+    "images": [
+      "https://www.inp2020.tn/wp-content/uploads/2020/06/image013.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c_Z-5d-kTjcvZXTejjFwdWZ-x3m6zzMOIQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxI8fsSq0ePLFTQ_Guda2HWnUbstJNsjIIWQ&s"
+    ],
+    "lat": 37.056,
+    "lng": 10.06,
+    "category": "Site historique"
+  },
+  {
+    "id": "bizerte_old_port",
+    "name": "Vieux port de Bizerte",
+    "city": "Bizerte",
+    "description": "Le vieux port de Bizerte associe charme maritime et strates d'influences ottomanes, andalouses et mediterraneennes modernes. Son front d'eau en forme de canal, ses facades historiques et ses traditions de peche creent un cadre patrimonial vivant. Bien qu'il ne s'agisse pas d'une ruine archeologique classique, il reflete la longue relation urbaine de la Tunisie avec la mer. C'est un paysage culturel de memoire, de travail et de vie quotidienne.",
+    "history": "Bizerte s'est developpee a travers des phases pheniciennes, romaines, islamiques, ottomanes et coloniales, chacune faconnant ses infrastructures maritimes. La zone du vieux port est devenue un foyer d'echanges, d'activite navale et d'economie locale. Les transformations urbaines des XIXe et XXe siecles ont modifie certaines parties du tissu tout en preservant les marqueurs identitaires. Aujourd'hui, le site reste un front de mer riche en patrimoine dans l'histoire cotiere du nord tunisien.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJuhEHpAB8Wx7qeLyVn-NCWSMGiuH_PwNZQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ExxNlvW_1mKMKtr18Pl6VSz-b0IFF39KRg&s",
+      "https://www.impressivetunisia.com/wp-content/uploads/2022/12/Vieux-port-de-bizerte-panoramique-1.jpg",
+      "https://thumbs.dreamstime.com/b/le-port-de-bizerte-en-tunisie-vieux-est-une-ville-situ%C3%A9e-afrique-du-nord-c-la-plus-septentrionale-d-302827103.jpg"
+    ],
+    "lat": 37.274,
+    "lng": 9.873,
+    "category": "Site historique"
+  },
+  {
+    "id": "testour_grand_mosque",
+    "name": "Grande Mosquee de Testour",
+    "city": "Beja",
+    "description": "La Grande Mosquee de Testour est un monument distinctif associe a l'heritage andalou en Tunisie. Son architecture, ses details decoratifs et son contexte urbain refleten les transferts culturels et l'adaptation apres les migrations depuis la peninsule iberique. La mosquee contribue a l'identite de Testour comme centre de memoire et d'artisanat. Elle symbolise la capacite de la Tunisie a absorber et reinterpre­ter des traditions diverses.",
+    "history": "Testour a ete faconnee par des communautes andalouses installees en Tunisie a l'epoque moderne. La mosquee, construite dans ce contexte historique, montre des traits stylistiques lies aux influences andalouses et ottomanes. Au fil du temps, elle est devenue un centre religieux et un marqueur de continuite communautaire. Les recits patrimoniaux autour de Testour mettent en valeur la migration, la resilience et la formation de paysages culturels hybrides.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-c3DTC3CkhkuZSKGONnjMt2IC1YPZF12mg&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grande_Mosquee_de_Testour_minaret_detail.jpg/250px-Grande_Mosquee_de_Testour_minaret_detail.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XSlISkn8FdJyGHwg8ejoAfZfbrpwM3doqQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6-TU3Ba0A7VeBGyAY_LvGDTh3DgumRyNPA&s"
+    ],
+    "lat": 36.551,
+    "lng": 9.443,
+    "category": "Site historique"
+  },
+  {
+    "id": "zaghouan_temple_waters",
+    "name": "Temple des eaux de Zaghouan",
+    "city": "Zaghouan",
+    "description": "Au pied de la montagne, le Temple des eaux de Zaghouan est l'un des plus elegants monuments hydrauliques romains de Tunisie. La structure marque la source d'un aqueduc qui alimentait autrefois Carthage sur de longues distances. Sa sobriete architecturale et son cadre naturel offrent une rencontre raffinee avec l'ingenierie antique. Le site relie paysage, technologie et vie urbaine dans un meme récit.",
+    "history": "Le temple et l'aqueduc associe furent developpes sous la domination romaine pour repondre aux besoins croissants de Carthage et des etablissements environnants. Ce reseau hydraulique illustre l'avancee des techniques de levé, de construction et de gestion de l'eau en contexte provincial. Bien que partiellement ruiné, les elements restants montrent encore la sophistication des infrastructures romaines en Tunisie. Le monument est central pour les etudes sur l'adaptation environnementale et l'urbanisme imperial.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5wC58ZEfRBXW2rkzG2EoVUjUvo4VxUw1bQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutolmIdMWcXRdYKswDGPMq2PHIJsKHdVutQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqOC9wtwDoWWlyxaCpSyONBwtQubdfZb9GQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH74R57zcIRoJ2xz4aU4gusAniZ5M5a3Pm4g&s"
+    ],
+    "lat": 36.402,
+    "lng": 10.142,
+    "category": "Site historique"
+  },
+  {
+    "id": "bardo_museum",
+    "name": "Musee national du Bardo",
+    "city": "Tunis",
+    "description": "Le Musee national du Bardo est l'un des musees les plus importants de la Mediterranee, celebre pour sa collection exceptionnelle de mosaiques romaines et d'antiquites. Installe dans un ancien palais beylical, il combine une architecture de cour avec une curation archeologique de niveau mondial. Les galeries guident les visiteurs a travers les cultures punique, romaine, chretienne primitive et islamique, offrant un recit d'ensemble de l'histoire tunisienne. Le musee est a la fois une institution savante et une porte d'entree pour le public vers le patrimoine national.",
+    "history": "Etabli comme musee a la fin du XIXe siecle, le Bardo est devenu le principal depot des decouvertes issues des grandes fouilles tunisiennes. Ses collections se sont enrichies au rythme des missions archeologiques documentant l'Afrique romaine et les civilisations plus anciennes. Des renovations et mises a jour museographiques ont modernise les presentations tout en preservant le caractere historique du palais. Aujourd'hui, le Bardo reste indispensable pour la recherche, l'education et la diplomatie culturelle.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdlW1LJAQephq8Luj9YfLsVBNRNXTcPpwnA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCnvbMgzYnp2mdj9DlJ8LKSWdVsL772eLrg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc14xQdTciZWmffoBAozxL2CP7e3BgkGX76A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKHeZksBVNSyqvoUX-LxmBHeG6p2ogcRZjA&s"
+    ],
+    "lat": 36.8092,
+    "lng": 10.133,
+    "category": "Musee"
+  },
+  {
+    "id": "carthage_national_museum",
+    "name": "Musee national de Carthage",
+    "city": "Carthage",
+    "description": "Le Musee national de Carthage presente des decouvertes archeologiques majeures de l'une des villes les plus celebres de l'Antiquite. Situe pres de la colline de Byrsa, il apporte un contexte aux ruines environnantes par des artefacts, inscriptions et expositions interpretatives. Le musee aide les visiteurs a relier les vestiges fragmentaires aux grands recits de la civilisation punique et romaine. C'est un arret essentiel pour comprendre Carthage au-dela du site a ciel ouvert.",
+    "history": "Concu pour conserver et presenter les decouvertes issues des fouilles de Carthage, le musee a joue un role majeur dans la construction du savoir public sur le passe de la ville. Les collections couvrent les phases punique, romaine et tardo-antique, refletant une transformation urbaine de longue duree. Les efforts curatoriaux ont evolue avec les nouvelles connaissances archeologiques et les pratiques patrimoniales. L'institution demeure centrale pour l'interpretation de Carthage comme symbole historique mondial.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGlI31lZDFZApArkRVipSXarNApMxF1BcvQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j-NsR26erQiu6DVC-CBBVOWJJTZ8OoXG-A&s",
+      "https://news.gnet.tn/wp-content/uploads/2021/12/Carthage-National-Museum.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBOzDi0SVG3GUyPLfqhtuPqB32fXwqs8IzUQ&s"
+    ],
+    "lat": 36.8525,
+    "lng": 10.3236,
+    "category": "Musee"
+  },
+  {
+    "id": "sousse_arch_museum",
+    "name": "Musee archeologique de Sousse",
+    "city": "Sousse",
+    "description": "Situe dans la kasbah historique, le Musee archeologique de Sousse abrite une remarquable collection de mosaiques et d'artefacts d'Hadrumetum et des regions voisines. Les expositions revelent la vie domestique, la mythologie et les valeurs sociales a travers une narration visuelle riche. Son implantation dans la vieille ville ajoute une experience stratifiee ou interpretation museale et tissu urbain historique se renforcent. Le musee est un ancrage culturel majeur sur la cote du Sahel.",
+    "history": "Le musee est ne de l'activite archeologique regionale visant a conserver les decouvertes des sites romains et ulterieurs de Tunisie centre-est. Avec le temps, sa collection de mosaiques a acquis une reconnaissance pour sa qualite et sa diversite iconographique. Le developpement institutionnel a ameliore la conservation et l'accessibilite publique tout en maintenant les liens avec l'histoire locale. Aujourd'hui, il sert a la fois de ressource de recherche et de destination majeure du tourisme patrimonial.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Archaeological_Museum_of_Sousse_07042013.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCR-gNoStW_Bi0zKxy6iZqO5rSo86KSrFvnQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxE4rI6hBRt90T4FMPQbjT7PbDypHSLIU-w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEbuj7PMmVdKxxv6lWYb-5cjpJcn1qf_z3Q&s"
+    ],
+    "lat": 35.8256,
+    "lng": 10.636,
+    "category": "Musee"
+  },
+  {
+    "id": "el_jem_museum",
+    "name": "Musee archeologique d'El Jem",
+    "city": "El Jem",
+    "description": "Le musee archeologique d'El Jem complete l'amphitheatre en presentant mosaiques, sculptures et objets domestiques de l'ancienne Thysdrus. Ses espaces exposes permettent de passer du spectacle monumental a la vie quotidienne romaine. Le recit museal met l'accent sur la prosperite locale, l'artisanat et la culture urbaine. Il approfondit la comprehension d'El Jem au-dela de son edifice iconique.",
+    "history": "Cree pour abriter et interpreter les decouvertes des fouilles d'El Jem et de ses environs, le musee est devenu une etape essentielle du parcours patrimonial. Les collections documentent les villas privees, l'artisanat et l'imagerie religieuse de la periode romaine. Les programmes de conservation et d'interpretation ont progressivement ameliore la mise en valeur des objets. Le musee reste indispensable pour une lecture historique complete de Thysdrus.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxIp0C2D4C-CdVd_ct9j85k9D0ZmzL8ezAA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCHBPEhfTN_MsJ1vrm6LCBhtbiHSmeL57Kw&s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/45/8d/d1/musee-d-el-jem.jpg?w=700&h=400&s=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGfJ74LF1mB_io6RYrBXwXPEHF9A8Nlt2jQ&s"
+    ],
+    "lat": 35.2954,
+    "lng": 10.7097,
+    "category": "Musee"
+  },
+  {
+    "id": "kerk_museum",
+    "name": "Musee du site de Kerkouane",
+    "city": "Nabeul",
+    "description": "Le musee proche de Kerkouane offre une introduction concentree a la culture materielle punique decouverte sur le site archeologique. Bien que modeste, sa collection est precieuse pour comprendre la vie domestique, les pratiques artisanales et les traditions funeraires dans un contexte carthaginois. Il sert de pont entre les zones de fouilles et l'interpretation historique. Pour les visiteurs, il transforme les ruines en histoires humaines.",
+    "history": "Etabli pour conserver les objets issus des fouilles, le musee soutient l'interpretation de l'un des rares sites urbains puniques intacts. Ses collections offrent des preuves sur l'architecture, l'economie et les systemes de croyance avant la domination romaine. Les recherches en cours affinent la chronologie et l'attribution culturelle de nombreux objets. Le musee joue un role cle dans l'engagement public envers le patrimoine pre-romain tunisien.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mus%C3%A9e_de_Kerkouane_01.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kerkouane_Plan_du_site_1.jpg/500px-Kerkouane_Plan_du_site_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kerkouane_sarcophage_1.jpg/500px-Kerkouane_sarcophage_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Musee_Nationale_de_Kerkouene%286%29.jpg/500px-Musee_Nationale_de_Kerkouene%286%29.jpg"
+    ],
+    "lat": 36.9432,
+    "lng": 11.0968,
+    "category": "Musee"
+  },
+  {
+    "id": "chemtou_museum",
+    "name": "Musee archeologique de Chemtou",
+    "city": "Jendouba",
+    "description": "Le musee de Chemtou interprete le paysage des carrieres a travers des objets, des modeles et des explications sur les technologies d'extraction antiques. Il aide a comprendre comment la pierre brute devenait une marchandise imperiale prestigieuse transportee a travers la Mediterranee. Les expositions relient geologie, travail et economie politique d'une maniere tres concrete. L'institution enrichit l'un des ensembles archeologiques les plus distinctifs de Tunisie.",
+    "history": "Developpe parallelement aux recherches archeologiques et geologiques de Simitthus, le musee a ete concu pour contextualiser les vestiges de carrieres et les habitats associes. Il integre les decouvertes de terrain sur les outils, les inscriptions et les systemes de transport. Avec le temps, il est devenu un site educatif important pour l'archeologie industrielle antique. Le musee ancre l'importance de Chemtou dans l'histoire nationale et trans-mediterraneenne.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkaoTFON6C1RujLCksSnxt4tKpArU_3hlrDCsdJA8Wchtod_hXlxVGxp2Nvwh87AlWOOppmSRIbOMcynCC34y_0uZbtu0PLH54L9REATtGNwvGDOwEiOTY7HVUvmKW4wSx5Kj=s1360-w1360-h1020-rw",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Funerary_steles_in_Archaeological_Museum_of_Chemtou.jpg/500px-Funerary_steles_in_Archaeological_Museum_of_Chemtou.jpg",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6jaQcskI0TEJGxWc7qh2kRm-nnx2hQZzPqVkNKYkX9A7CRY6Z4J2FUEKviu8iRtE70xfJ7za9ePmlidsQh4Kh5Q6UZo0hq5tEv8PjXF8P8SPUUco1I8Y52wHwQdQG7Ra63CsNnA=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjZeQBnZj2QtbdGIzcBZt1OOA4nM84APC-3M4UzNK-hEAbH-b9PGDWVQYPgILLvPC1d4hVXz-aEybW5Te-Tyy7SeFwlwS3etBFUoNj_wmIE24rTXpse7XFLf3GpAAHBwxqdIiP=s1360-w1360-h1020-rw"
+    ],
+    "lat": 36.4792,
+    "lng": 8.5728,
+    "category": "Musee"
+  },
+  {
+    "id": "mahdia_museum",
+    "name": "Musee de Mahdia",
+    "city": "Mahdia",
+    "description": "Le musee de Mahdia presente des materiaux archeologiques et ethnographiques qui refleten l'histoire maritime et urbaine de la ville. Des vestiges classiques aux objets de l'epoque islamique, la collection revele le role de Mahdia comme centre cotiere de commerce et de culture. Le musee offre un contexte utile pour explorer la vieille ville et les sites du littoral. C'est une etape compacte mais riche pour comprendre la cote centrale tunisienne.",
+    "history": "L'importance historique de Mahdia—notamment durant les periodes fatimide et ulterieures—a produit un riche patrimoine local conserve par des initiatives museales. Les collections se sont etendues grace aux fouilles regionales et aux projets de preservation historique. Le travail de curation met en valeur les liens entre l'identite portuaire de la ville et les echanges mediterraneens. Le musee contribue a sauvegarder et a transmettre l'heritage multi-periodes de Mahdia.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcjh3zKxycoWmNcmLboObTV4ddiP1rpSEzQ&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Museu_de_Mahdia.jpg/960px-Museu_de_Mahdia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Islamic_Section_Mahdia_Museum_12082020_009.jpg/500px-Islamic_Section_Mahdia_Museum_12082020_009.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Museu_de_Mahdia_-_teler_manual.jpg/250px-Museu_de_Mahdia_-_teler_manual.jpg"
+    ],
+    "lat": 35.5047,
+    "lng": 11.0622,
+    "category": "Musee"
+  },
+  {
+    "id": "nabeul_museum",
+    "name": "Musee archeologique de Nabeul",
+    "city": "Nabeul",
+    "description": "Ce musee presente des decouvertes archeologiques du Cap Bon, notamment des mosaiques, ceramiques et objets lies aux contextes romains et puniques regionaux. Il offre une perspective locale precieuse qui complete les grandes institutions nationales. Les expositions soulignent la richesse historique d'une region souvent connue aujourd'hui pour l'artisanat et les plages. Le musee invite a redécouvrir Nabeul a travers le temps long.",
+    "history": "Forme par des efforts de collecte archeologique locale et regionale, le musee preserve des objets issus de sites du nord-est tunisien. Ses collections eclairent la continuite des implantations et la production artistique sur plusieurs epoques. La catalogation et l'interpretation en cours renforcent son role educatif. En tant que musee regional, il participe a la decentralisation de l'acces au savoir patrimonial.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Entr%C3%A9e_mus%C3%A9e_de_Nabeul.JPG/960px-Entr%C3%A9e_mus%C3%A9e_de_Nabeul.JPG",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Amphore_1_Neapolis.JPG/500px-Amphore_1_Neapolis.JPG",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhaoDgm3wPSoEi2tB0M6hrCSj-Zc-cgYiyg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-oM8SndabVFcmKklAzuI7CqVZ1MbA3liwg&s"
+    ],
+    "lat": 36.4561,
+    "lng": 10.7376,
+    "category": "Musee"
+  },
+  {
+    "id": "kerkennah_museum",
+    "name": "Musee du patrimoine de Kerkennah",
+    "city": "Sfax",
+    "description": "Le musee du patrimoine des iles Kerkennah preserve la memoire locale liee aux traditions de peche, a la vie insulaire et a la culture materielle vernaculaire. Bien qu'il differe des musees archeologiques classiques, il est essentiel pour comprendre le patrimoine immateriel et maritime tunisien. Les expositions documentent outils, objets domestiques et pratiques sociales faconnees par l'ecologie insulaire. Le musee elargit la notion de patrimoine au-dela des ruines monumentales.",
+    "history": "Cree pour sauvegarder les traditions locales sous la pression de la modernisation et des changements economiques, le musee reflete un travail de memoire communautaire. Les collections et les recits preservent les savoirs liés a la peche artisanale, a la navigation et a l'organisation sociale. Son developpement marque une reconnaissance croissante du patrimoine ethnographique dans la politique culturelle tunisienne. L'institution contribue a documenter des histoires vivantes souvent absentes des grands recits nationaux.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeNBso1uXLqdnTxkXuP3p_I3Dr1WLFmkV2g&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr6n1nqWG_WZIWb9kz482w9dyKpdXmaL-HA&s",
+      "https://www.sonotrak.tn/upload/images/culture.jpg",
+      "https://tunisie.co/uploads/images/content/abssia-290711-1.jpg"
+    ],
+    "lat": 34.755,
+    "lng": 11.245,
+    "category": "Musee"
+  },
+  {
+    "id": "raqqada_museum",
+    "name": "Musee d'art islamique (Raqqada)",
+    "city": "Kairouan",
+    "description": "Situe pres de Kairouan, le musee d'art islamique de Raqqada conserve manuscrits, ceramiques, fragments architecturaux et arts decoratifs d'une valeur exceptionnelle. Ses collections illustrent la sophistication de l'Ifriqiya medievale et du monde islamique au sens large. Le cadre paisible du musee favorise une experience d'approfondissement des objets et de leur contexte historique. C'est un lieu indispensable pour comprendre les contributions artistiques et intellectuelles de la Tunisie dans la civilisation islamique.",
+    "history": "Le musee a ete cree pour conserver et presenter des artefacts provenant de Kairouan et d'autres sites de l'epoque islamique, y compris des manuscrits rares. Son cadre curatorial met en valeur les dynasties, les institutions religieuses et les echanges artistiques entre regions. Avec le temps, il est devenu l'un des principaux centres tunisiens d'interpretation du patrimoine islamique. Raqqada continue de soutenir la recherche et l'education du public sur l'Afrique du Nord medievale.",
+    "imageUrl": "",
+    "images": [
+      "",
+      "",
+      ""
+    ],
+    "lat": 35.629,
+    "lng": 10.098,
+    "category": "Musee"
+  },
+  {
+    "id": "dar_hussein",
+    "name": "Dar Hussein (espace museal)",
+    "city": "Tunis",
+    "description": "Dar Hussein, dans la medina de Tunis, represente l'architecture raffinee des maisons aristocratiques et le patrimoine administratif. Les cours, les details sculptes et la hierarchie spatiale revelent les codes sociaux de la vie domestique des elites. En tant que lieu patrimonial, il aide a interpreter le bati de l'ancienne Tunis au-dela des monuments religieux. Il montre comment l'architecture incarnait statut, hospitalite et culture urbaine.",
+    "history": "A l'origine residence notable, Dar Hussein a ete integre a des usages patrimoniaux et institutionnels modernes, refletant l'evolution des relations entre tissu historique et structures de l'Etat. Sa preservation souligne l'importance de l'architecture domestique pour comprendre la Tunis ottomane et husseinite. Les efforts de conservation ont vise a maintenir l'authenticite structurelle tout en permettant des fonctions publiques et administratives. Le site reste un repere majeur pour l'etude de l'architecture de la medina.",
+    "imageUrl": "https://carthagemagazine.com/wp-content/uploads/2021/03/Raqqada-National-Museum-of-Islamic-Art-in-Kairouan.jpg",
+    "images": [
+      "https://images.museumwnf.org/full/museums/tn/1/1.jpg",
+      "https://www.patrimoinedetunisie.com.tn/fileadmin/user_upload/___________________b2.jpg",
+      "https://www.patrimoinedetunisie.com.tn/fileadmin/user_upload/____________________13.jpg"
+    ],
+    "lat": 36.7979,
+    "lng": 10.1705,
+    "category": "Musee"
+  },
+  {
+    "id": "dar_lasram",
+    "name": "Dar Lasram",
+    "city": "Tunis",
+    "description": "Dar Lasram est l'un des plus beaux palais historiques de la medina, celebre pour ses interieurs elegants, ses plafonds peints et sa composition autour d'une cour. Il incarne le raffinement de l'architecture aristocratique urbaine tunisienne. Au-dela de l'esthetique, la maison reflete l'histoire sociale, la memoire familiale et l'activisme patrimonial dans la vieille ville. C'est un joyau architectural qui relie artisanat et identite civique.",
+    "history": "Construit au debut du XIXe siecle pour une famille notable, le palais est ensuite devenu associe a des institutions patrimoniales et a des initiatives de conservation. Sa preservation a aide a documenter les techniques de construction, les traditions decoratives et l'organisation de l'espace domestique a Tunis. Dar Lasram a egalement joue un role symbolique dans les mouvements de protection du tissu historique de la medina. Il reste un symbole de prestige patrimonial et de gestion culturelle.",
+    "imageUrl": "https://www.impressivetunisia.com/wp-content/uploads/2022/02/PRESENTATION-DAR-LASRAM-Sidi-Bou-Said-9-1.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Salle_Dar_Lasram.jpg/250px-Salle_Dar_Lasram.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1ZHAciFhXEFzVD2NX8EJ98BVCKgWpALtXQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-_CyHHmKtniimyvfG4IBfl16qYotN4pt_g&s"
+    ],
+    "lat": 36.801,
+    "lng": 10.1692,
+    "category": "Musee"
+  },
+  {
+    "id": "mausoleum_habib_bourguiba",
+    "name": "Mauselee de Habib Bourguiba",
+    "city": "Monastir",
+    "description": "Ce mausolee monumental, avec ses dômes dores et sa symetrie equilibree, est l'un des repères les plus reconnaissables de la Tunisie moderne. Il combine une architecture commemorative et un symbolisme national, offrant une lecture de l'identite post-independance. Le complexe est visuellement saisissant et lie aux recits civiques de l'Etat et de la modernisation. Il se situe au croisement de la memoire, de la politique et de la representation architecturale.",
+    "history": "Construit a la fin du XXe siecle comme lieu de sepulture du premier president tunisien, le mausolee a ete concu pour exprimer dignite, continuite et fierte nationale. Son implantation a Monastir relie la biographie personnelle au paysage patrimonial regional. Avec le temps, il est devenu a la fois un site commemoratif et une destination pour les visiteurs de l'histoire moderne tunisienne. Le monument contribue a comprendre comment les nations construisent la memoire politique par l'architecture.",
+    "imageUrl": "https://villa-romana-monastir.com/wp-content/uploads/2018/09/mausole-de-bourguiba-monastir-1.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grave_of_Bourguiba.jpg/250px-Grave_of_Bourguiba.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgeQMWoqG1PRgZF1akTV8FZzSb1JukAckmg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKmD-OuLwPUHtN09G5oXTdFGJgUrJpbHnQw&s"
+    ],
+    "lat": 35.777,
+    "lng": 10.8355,
+    "category": "Site historique"
+  },
+  {
+    "id": "ksar_hallouf",
+    "name": "Ksar Hallouf",
+    "city": "Medenine",
+    "description": "Ksar Hallouf est un remarquable exemple d'architecture de greniers fortifies du sud tunisien, situe dans un paysage marque par des siecles d'adaptation a la rarete et a la mobilite. Ses textures de terre et ses unités de stockage groupees revelent des strategies communautaires de resilience. Le site offre une experience plus calme et moins commercialisee du patrimoine des ksour. Il est particulierement significatif pour les visiteurs interesses par l'architecture amazighe.",
+    "history": "Developpe comme partie d'un reseau plus vaste de ksour du sud-est tunisien, Ksar Hallouf servait de systeme de stockage collectif et de refuge. Son design reflete la cooperation economique et l'organisation sociale des communautes locales. Bien que de nombreux ksour aient decline dans leur usage pratique, Hallouf reste un temoignage essentiel des modes de vie regionaux. L'attention a la conservation a augmente avec la reconnaissance du patrimoine amazigh.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ksar_Hallouf.JPG",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ksar_Hallouf_%28panoramique%29.jpg/250px-Ksar_Hallouf_%28panoramique%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Ksar_hallouf01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ksar_el-Hallouf_detail_2.jpg/1280px-Ksar_el-Hallouf_detail_2.jpg"
+    ],
+    "lat": 33.18,
+    "lng": 10.12,
+    "category": "Site historique"
+  },
+  {
+    "id": "takrouna",
+    "name": "Village de Takrouna",
+    "city": "Sousse",
+    "description": "Takrouna est un village perche dominant de vastes plaines et des paysages d'oliviers, connu pour son architecture traditionnelle et ses vues dramatiques. L'implantation offre un rare sentiment de continuite entre forme bâtie, geologie et vie rurale. Parcourir ses sentiers revele des espaces vernaculaires formes par le climat, l'artisanat et les usages sociaux. C'est l'une des haltes culturelles les plus atmospheriques du Sahel.",
+    "history": "Avec des racines profondes dans l'histoire regionale, Takrouna s'est developpee comme un site strategique et communautaire sur un relief eleve. Son architecture traduit l'adaptation aux materiaux locaux et aux considerations defensives. Le village est aussi connu pour son role dans l'histoire militaire moderne durant la Seconde Guerre mondiale. Il est aujourd'hui preserve comme destination patrimoniale representant des couches de memoire anciennes et contemporaines.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EB-zqrfyPKbmiVkylVjySIX01xuxVvawA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNLZqpJQkCcSmUy8xElVaLjm_S25QTd7bjw&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Takrouna_-_004.jpg/1280px-Takrouna_-_004.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Takrouna_origine_Berb%C3%A8re.jpg/1280px-Takrouna_origine_Berb%C3%A8re.jpg"
+    ],
+    "lat": 35.6405,
+    "lng": 10.3306,
+    "category": "Site historique"
+  },
+  {
+    "id": "hammamet_kasbah",
+    "name": "Kasbah de Hammamet",
+    "city": "Hammamet",
+    "description": "La kasbah de Hammamet domine la medina ancienne et le front de mer, associant architecture defensive et vues cotières. Ses murs et ses tours encadrent un coeur historique compact ou la vie quotidienne et le tourisme se croisent. Le monument offre une introduction concise mais vivante au passe pre-moderne de la ville. Il est un repere majeur dans le paysage culturel de Hammamet au-dela de son identite balneaire.",
+    "history": "Construite et modifiee entre les periodes medievales et modernes, la kasbah prote­geait la ville et surveillait les approches maritimes. Son role strategique a evolue avec les pouvoirs regionaux et les menaces cotieres. La croissance urbaine ulterieure a transforme Hammamet, mais la forteresse est restee un point focal symbolique. Les efforts de preservation maintiennent son statut de marqueur historique dans un environnement rapidement modernise.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXLLDhykeMNlMC3cPmWhaBf_GF64V8Kv-4A&s",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3f/f2/65/view-from-kasbah-of-hammamet.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fc/3c/cd/caption.jpg?w=1200&h=-1&s=1s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/5f/48/af/caption.jpg?w=1400&h=800&s=1"
+    ],
+    "lat": 36.4,
+    "lng": 10.6167,
+    "category": "Site historique"
+  },
+  {
+    "id": "tabarka_fort",
+    "name": "Fort genois de Tabarka",
+    "city": "Tabarka",
+    "description": "Dominant la mer et le littoral rocheux, le fort genois de Tabarka reflete le passe maritime interculturel de la ville. Sa silhouette face a la Mediterranee souligne l'importance strategique de ce port du nord. Le site combine heritage militaire et paysages naturels exceptionnels. Il offre une perspective convaincante sur les liens de la Tunisie avec les puissances mediterraneennes.",
+    "history": "Les fortifications de Tabarka ont ete faconnees par des periodes de gouvernance locale et d'influences exterieures, notamment la presence genoise liee au commerce et aux ressources. La forteresse controlait les mouvements maritimes et symbolisait l'autorite sur un noeud cotiere precieux. Bien qu'elle ait ete partiellement alteree par le temps, elle reste un repere historique fort. Le site contribue a comprendre la competition et les echanges trans-mediterraneens a l'epoque moderne.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tabarka_tunisie_3.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fort_de_Tabarka%2C_26_d%C3%A9cembre_2014_%2803%29.jpg/500px-Fort_de_Tabarka%2C_26_d%C3%A9cembre_2014_%2803%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tabarka%2C_d%C3%A9cembre_2014_%2828%29.jpg/1280px-Tabarka%2C_d%C3%A9cembre_2014_%2828%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/Port_tabarka.jpgs"
+    ],
+    "lat": 36.9544,
+    "lng": 8.758,
+    "category": "Site historique"
+  },
+  {
+    "id": "gafsa_roman_pools",
+    "name": "Bassins romains de Gafsa",
+    "city": "Gafsa",
+    "description": "Les bassins historiques de Gafsa, lies aux anciens systemes hydrauliques, rappellent comment les villes-oasis organisaient la vie autour des ressources en eau. Leur presence dans une zone aride souligne l'importance technologique et sociale de la gestion de l'eau. Le site relie histoire environnementale et continuité urbaine. C'est une reference essentielle pour comprendre le patrimoine de l'interieur sud tunisien.",
+    "history": "Gafsa a des racines profondes qui s'etendent aux periodes romaine et islamique, avec des infrastructures hydrauliques au coeur de la durabilite urbaine. Les bassins et les elements associes servaient des fonctions pratiques, communautaires et symboliques. Avec le temps, la modernisation a transforme les usages tout en preservant la memoire historique de la vie urbaine basee sur l'eau. Le site demeure significatif dans les recits d'adaptation et de resilience de la Tunisie interieure.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Roman_Pool_in_Gafsa.jpg/500px-Roman_Pool_in_Gafsa.jpg",
+    "images": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErosJx_ThC-1x3KG9qcjdUL9h_yoVtUmEFOrZnQ8m-ZdplQXZq5gX5Dq1mmArGAFCybuKkm42eOnrkPv73WvNRiJdWi8zRpJOhbBkspO75zOJAW6YLtZW-5Y4cKCSXCWXxu8wn=w270-h312-n-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_GHMwFmHHEPNLZf3981dimQC_6XWWf5AKIxNDXZmX6Cd3PiXCbtG3VgjRODOFr9TSujYf3cNKbj8gM7CE4NMO_nk-Jddp7s72JHTXpsw7nPeK0PxPHraUyKNQO3kestSaJR7e=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzTj4uauRvHM4NqSGYnfLwv22FeiBGo1XX1ofdtyGMmNdVRLBL8jxL3N_mzbt0rVyPg7DAIzB25a7e4zPDepJNNOrFzXqbd7MKdV6c5ofFchobBjTcWTCGb2JddhgCiafvSuvi=s1360-w1360-h1020-rw"
+    ],
+    "lat": 34.425,
+    "lng": 8.7842,
+    "category": "Site historique"
+  },
+  {
+    "id": "tozeur_old_town",
+    "name": "Vieille ville de Tozeur (Ouled el Hadef)",
+    "city": "Tozeur",
+    "description": "Le vieux quartier de Tozeur est celebre pour ses facades de briques geometriques, ses tons chauds et son esthetique urbaine desertique raffinee. Les rues et maisons demontrent un haut niveau d'artisanat vernaculaire adapte au climat oasien et a l'organisation sociale. Le quartier offre l'une des identites architecturales les plus distinctives de Tunisie. C'est a la fois un quartier vivant et une attraction culturelle majeure.",
+    "history": "Tozeur s'est developpee comme centre d'oasis lie aux routes caravanières et a l'economie de la culture des dattes. Son architecture a evolue grace aux savoirs locaux sur la gestion du climat, l'usage des materiaux et l'expression decorative. Malgre l'expansion moderne, des parties de l'ancien quartier conservent un caractere historique coherent. Les initiatives de conservation et de tourisme reconnaissent de plus en plus ce quartier comme un modele de patrimoine urbain saharien.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ouled_El_Hadef_%E2%80%94_Medina_of_Tozeur_10.jpg/960px-Ouled_El_Hadef_%E2%80%94_Medina_of_Tozeur_10.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sidi_Ben_Ghalleb_Mosque_01.jpg/250px-Sidi_Ben_Ghalleb_Mosque_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sidi_Abderrahmane_Mosque_03.jpg/960px-Sidi_Abderrahmane_Mosque_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sidi_Lsiq1.jpg/1280px-Sidi_Lsiq1.jpg"
+    ],
+    "lat": 33.918,
+    "lng": 8.1335,
+    "category": "Site historique"
+  },
+  {
+    "id": "nefta_oasis",
+    "name": "Nefta et l'oasis du panier",
+    "city": "Tozeur",
+    "description": "Le paysage oasien de Nefta, souvent appele le Panier, forme une zone de patrimoine culturel et ecologique ou agriculture, eau et habitat sont interconnectes. Les palmeraies, sentiers et points de vue composent un environnement desertique poetique, faconne par des generations de savoir-faire. Le site reflete la civilisation oasienne tunisienne au-dela des architectures monumentales en pierre. C'est un lieu ou les pratiques immaterielles et le patrimoine paysager sont indissociables.",
+    "history": "Nefta a longtemps ete un centre religieux et caravanier important dans la region du Jerid, soutenu par des systemes complexes de distribution de l'eau et d'agriculture oasienne. Les communautes historiques ont developpe des systemes sociaux lies a la culture des palmiers et a la gestion environnementale. Les pressions modernes ont modifie les equilibres traditionnels, renforcant l'importance de la documentation et de la gestion durable. L'oasis reste centrale pour comprendre l'ecologie historique du sud tunisien.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Corbeille_de_Nefta_-_Tozeur%2C_Tunisia_02.jpg/500px-Corbeille_de_Nefta_-_Tozeur%2C_Tunisia_02.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREW6vFWgBuWlRxFLz6HQCH4YCrub2qdi383Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88baAxBZ4kbmatvZyiHu7KHQyDF4w4angXw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpuqYPWlydeYvQybq3WPn5GRyWLV-uqEK3g&s"
+    ],
+    "lat": 33.875,
+    "lng": 7.877,
+    "category": "Site historique"
+  },
+  {
+    "id": "sfax_medina",
+    "name": "Medina de Sfax",
+    "city": "Sfax",
+    "description": "La medina de Sfax est connue pour sa geometrie urbaine claire, ses murs robustes et sa vie artisanale et commerciale active. Par rapport a d'autres medinas, elle conserve un equilibre distinct entre tissu historique et fonction economique contemporaine. Ses portes, ses souks et ses edifices religieux forment un ensemble patrimonial coherent. La medina est un exemple fort de continuite dans les traditions urbaines cotieres tunisiennes.",
+    "history": "Fondee a la periode islamique primitive et renforcee au fil des siecles, Sfax s'est developpee comme un centre cle de commerce, de production et d'echanges maritimes. Son plan urbain reflete une logique defensive et une organisation commerciale structuree. L'expansion urbaine moderne a transforme les zones environnantes tout en preservant le coeur historique. Le site reste important pour la recherche sur l'urbanisme islamique et le patrimoine vivant.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAYw-YpsAKhRoW1Rybyeft6CbfGRgyiOUBw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTk1ZVp2S6zIm9BwMTdxkpNKCIjK1qQQuhwg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcH5Wz8RwIhOgsDEXf4mlR4IiJhZYUqZZwQ&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mosqu%C3%A9e_Ajouzine.jpg/250px-Mosqu%C3%A9e_Ajouzine.jpg"
+    ],
+    "lat": 34.739,
+    "lng": 10.76,
+    "category": "Site historique"
+  },
+  {
+    "id": "monastir_medina",
+    "name": "Medina de Monastir",
+    "city": "Monastir",
+    "description": "Le coeur historique de Monastir, encadre par le ribat et les monuments cotiers, offre une rencontre compacte mais riche avec le patrimoine maritime tunisien. L'interaction entre fortification, architecture religieuse et vie urbaine donne a la zone une identite distincte. Les visiteurs peuvent suivre l'evolution historique de la ville tout en profitant de son atmosphére marine. C'est un pont entre l'histoire medievale et la memoire civique moderne.",
+    "history": "Monastir s'est developpee autour de la defense cotiere strategique et des institutions religieuses depuis les premiers siecles islamiques. Avec le temps, la croissance urbaine a depasse le noyau historique tout en preservant les principaux monuments. La construction nationale du XXe siecle a ajoute de nouvelles couches symboliques avec l'architecture commemorative. La medina reflete ainsi des racines profondes et une reinterpretation moderne.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJwXRnoipa0c41jEQsoi4T-tfWypkJirO3wQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWyALl5AVdrreZTPlX1_1b1EkXtHCqBmIkQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4PRKFJil519akZKSX9aEeHCQuAy5VXEGvQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUC4Wu9yfWpernWn_ocYABcF-2YlCBeIsLA&s"
+    ],
+    "lat": 35.7767,
+    "lng": 10.8336,
+    "category": "Site historique"
+  },
+  {
+    "id": "djerba_hood",
+    "name": "Erriadh (quartier culturel Djerbahood)",
+    "city": "Djerba",
+    "description": "Le quartier d'Erriadh, connu mondialement pour ses interventions de street art, propose un dialogue patrimonial contemporain entre l'architecture traditionnelle insulaire et l'expression visuelle moderne. Les fresques interagissent avec les murs blancs, les ruelles et les cours, creant un itineraire culturel a ciel ouvert. L'experience montre comment le patrimoine vivant peut evoluer sans perdre son identite. C'est un exemple marquant de reinterpretation creatrice dans l'espace culturel tunisien.",
+    "history": "Erriadh fait partie depuis longtemps du paysage social et religieux multi-couches de Djerba. Au XXIe siecle, des projets internationaux de street art ont introduit de nouveaux recits artistiques tout en attirant l'attention sur l'architecture locale et la vie communautaire. Cette transformation a suscite des debats sur la conservation, l'authenticite et l'innovation. Le quartier est aujourd'hui un cas d'etude de l'activation culturelle contemporaine des environnements historiques.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQbgDKhCgjlwHnETsGb2ap4b3tnPtcwyE-w&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBx-KLjX6lZtH19yIv1Vfz7FvbesRx6PbTkQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUP7j9-fO3cj13QEgJwo0Wb7UTXwYZkW-6vA&s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a7/e3/ee/caption.jpg?w=1200&h=-1&s=1s"
+    ],
+    "lat": 33.8088,
+    "lng": 10.8571,
+    "category": "Site historique"
+  },
+  {
+    "id": "douz_sahara_gate",
+    "name": "Douz (porte du Sahara)",
+    "city": "Douz",
+    "description": "Douz est souvent appelee la porte du Sahara, ou les traditions oasiennes, les routes du desert et les festivals culturels construisent une identite patrimoniale unique. Son centre ancien et son environnement reflete des histoires de mobilite, d'echange et d'adaptation. La ville offre un regard sur la geographie culturelle du sud tunisien au-dela de l'archeologie monumentale. Elle est particulierement importante pour comprendre le patrimoine immateriel du desert.",
+    "history": "Historiquement liee aux mouvements caravaniers et aux economies oasiennes, Douz s'est developpee comme un etablissement strategique entre steppe et desert. Les pratiques sociales, les rythmes saisonniers et les reseaux d'echanges regionaux ont faconne son evolution. A l'epoque moderne, festivals et tourisme ont rearticule l'identite de Douz tout en preservant ses liens aux traditions plus anciennes. La ville reste un noeud majeur des recits du Sahara tunisien.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3guJ_KuysFvyjac4RSOeRWFVJM7vfqbo88Q&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TxQ6TEb7Y5eFMRiUyEP5vwj3J0_AOIT1Kw&s",
+      "https://ims.easyvoyage.info/large_shutterstock_131151848_7c7b1d018f/large_shutterstock_131151848_7c7b1d018f.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYf8UJx-tapKbrfogaLIyXECGefJ8cD8fHIQ&s"
+    ],
+    "lat": 33.4663,
+    "lng": 9.0203,
+    "category": "Site historique"
+  }
+]

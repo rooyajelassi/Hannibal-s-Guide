@@ -10,9 +10,11 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Search
+import androidx.compose.material.icons.rounded.Settings
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
@@ -32,25 +34,34 @@ import com.example.hannibalsguide.domain.model.Landmark
 import com.example.hannibalsguide.presentation.components.LandmarkItem
 import com.example.hannibalsguide.presentation.components.TunisianPatternBackground
 import com.example.hannibalsguide.ui.theme.HannibalsGuideTheme
+import androidx.hilt.navigation.compose.hiltViewModel
+import com.example.hannibalsguide.presentation.localization.UiStrings
+import com.example.hannibalsguide.presentation.settings.LanguageViewModel
 
 @Composable
 fun HomeScreen(
     viewModel: HomeViewModel,
-    onLandmarkClick: (String) -> Unit
+    onLandmarkClick: (String) -> Unit,
+    onSettingsClick: () -> Unit
 ) {
     val landmarks by viewModel.landmarks.collectAsState()
     var query by remember { mutableStateOf("") }
+    val languageViewModel: LanguageViewModel = hiltViewModel()
+    val language by languageViewModel.language.collectAsState()
+    val strings = UiStrings(language)
 
     LaunchedEffect(Unit) { viewModel.loadLandmarks() }
 
     HomeScreenContent(
         landmarks = landmarks,
         query = query,
+        strings = strings,
         onQueryChange = {
             query = it
             viewModel.search(it)
         },
-        onLandmarkClick = onLandmarkClick
+        onLandmarkClick = onLandmarkClick,
+        onSettingsClick = onSettingsClick
     )
 }
 
@@ -59,14 +70,24 @@ fun HomeScreen(
 fun HomeScreenContent(
     landmarks: List<Landmark>,
     query: String,
+    strings: UiStrings,
     onQueryChange: (String) -> Unit,
-    onLandmarkClick: (String) -> Unit
+    onLandmarkClick: (String) -> Unit,
+    onSettingsClick: () -> Unit
 ) {
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
         topBar = {
             CenterAlignedTopAppBar(
-                title = { Text("Discover Tunisia") },
+                title = { Text(strings.appTitle) },
+                actions = {
+                    IconButton(onClick = onSettingsClick) {
+                        Icon(
+                            imageVector = Icons.Rounded.Settings,
+                            contentDescription = strings.settingsContentDescription
+                        )
+                    }
+                },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                     containerColor = MaterialTheme.colorScheme.background
                 )
@@ -85,9 +106,9 @@ fun HomeScreenContent(
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(horizontal = 16.dp, vertical = 10.dp),
-                    placeholder = { Text("Search by name, city, or heritage") },
+                    placeholder = { Text(strings.searchPlaceholder) },
                     singleLine = true,
-                    leadingIcon = { Icon(Icons.Rounded.Search, contentDescription = "Search") },
+                    leadingIcon = { Icon(Icons.Rounded.Search, contentDescription = strings.searchPlaceholder) },
                     shape = androidx.compose.foundation.shape.RoundedCornerShape(14.dp)
                 )
 
@@ -115,8 +136,10 @@ private fun HomeScreenContentPreview() {
         HomeScreenContent(
             landmarks = emptyList(),
             query = "",
+            strings = UiStrings(com.example.hannibalsguide.domain.model.AppLanguage.ENGLISH),
             onQueryChange = {},
-            onLandmarkClick = {}
+            onLandmarkClick = {},
+            onSettingsClick = {}
         )
     }
 }

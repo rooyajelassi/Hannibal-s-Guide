@@ -46,7 +46,10 @@ import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.example.hannibalsguide.domain.model.Landmark
 import com.example.hannibalsguide.presentation.components.TunisianPatternBackground
+import com.example.hannibalsguide.presentation.localization.UiStrings
+import com.example.hannibalsguide.presentation.settings.LanguageViewModel
 import com.example.hannibalsguide.ui.theme.HannibalsGuideTheme
+import androidx.hilt.navigation.compose.hiltViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -58,6 +61,9 @@ fun DetailScreen(
     onOpenMap: (String) -> Unit
 ) {
     val landmark by viewModel.landmark.collectAsState()
+    val languageViewModel: LanguageViewModel = hiltViewModel()
+    val language by languageViewModel.language.collectAsState()
+    val strings = UiStrings(language)
     LaunchedEffect(landmarkId) { viewModel.loadLandmark(landmarkId) }
 
     val lm = landmark
@@ -65,10 +71,10 @@ fun DetailScreen(
         Scaffold(
             topBar = {
                 CenterAlignedTopAppBar(
-                    title = { Text("Landmark details") },
+                    title = { Text(strings.landmarkDetailsTitle) },
                     navigationIcon = {
                         FilledIconButton(onClick = onBack, modifier = Modifier.padding(start = 8.dp)) {
-                            Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = "Back")
+                            Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = strings.backContentDescription)
                         }
                     }
                 )
@@ -86,6 +92,7 @@ fun DetailScreen(
 
     DetailContent(
         landmark = lm,
+        strings = strings,
         onBack = onBack,
         onAskTarek = onAskTarek,
         onOpenMap = onOpenMap
@@ -96,6 +103,7 @@ fun DetailScreen(
 @Composable
 fun DetailContent(
     landmark: Landmark,
+    strings: UiStrings,
     onBack: () -> Unit,
     onAskTarek: (String) -> Unit,
     onOpenMap: (String) -> Unit
@@ -107,7 +115,7 @@ fun DetailContent(
                 title = { Text(landmark.name) },
                 navigationIcon = {
                     FilledIconButton(onClick = onBack, modifier = Modifier.padding(start = 8.dp)) {
-                        Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = "Back")
+                        Icon(Icons.AutoMirrored.Rounded.ArrowBack, contentDescription = strings.backContentDescription)
                     }
                 }
             )
@@ -125,7 +133,7 @@ fun DetailContent(
                 ) {
                     Icon(Icons.Rounded.ChatBubbleOutline, contentDescription = null)
                     Spacer(modifier = Modifier.width(8.dp))
-                    Text("Ask Tarek")
+                    Text(strings.askTarek)
                 }
                 Button(
                     onClick = { onOpenMap(landmark.id) },
@@ -133,7 +141,7 @@ fun DetailContent(
                 ) {
                     Icon(Icons.Rounded.LocationOn, contentDescription = null)
                     Spacer(modifier = Modifier.width(8.dp))
-                    Text("View on Map")
+                    Text(strings.viewOnMap)
                 }
             }
         }
@@ -168,9 +176,9 @@ fun DetailContent(
                     }
                 }
 
-                HeritageChips()
-                InfoCard("Cultural Story", landmark.description)
-                InfoCard("Echoes of History", landmark.history)
+                HeritageChips(strings)
+                InfoCard(strings.culturalStory, landmark.description)
+                InfoCard(strings.echoesOfHistory, landmark.history)
                 Spacer(modifier = Modifier.height(8.dp))
             }
         }
@@ -178,8 +186,8 @@ fun DetailContent(
 }
 
 @Composable
-private fun HeritageChips() {
-    val chips = listOf("UNESCO Spirit", "Roman Legacy", "Amazigh Roots", "Mediterranean Soul")
+private fun HeritageChips(strings: UiStrings) {
+    val chips = strings.heritageChips
     LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         items(chips) { chip ->
             AssistChip(onClick = {}, label = { Text(chip) })
@@ -222,6 +230,7 @@ private fun DetailPreview() {
                 lng = 10.7069,
                 category = "Historical Site"
             ),
+            strings = UiStrings(com.example.hannibalsguide.domain.model.AppLanguage.ENGLISH),
             onBack = {},
             onAskTarek = {},
             onOpenMap = {}

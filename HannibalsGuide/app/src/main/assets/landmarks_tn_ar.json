@@ -1,0 +1,850 @@
+[
+  {
+    "id": "el_jem_amphitheatre",
+    "name": "مدرج الجم",
+    "city": "الجم",
+    "description": "يرتفع مدرج الجم من سهول وسط تونس كاحد اروع المعالم الرومانية في العالم. تكشف بنيته البيضوية الضخمة والاقواس العالية والردهات الهندسية كيف كانت عمارة العروض تخدم الترفيه والرمزية السياسية في افريقيا الرومانية. التجول في ممراته المقببة يمنح الزائر احساسا قويا بالحجم والاستمرارية، وكأن البناء لا يزال يردد صدى جماهير العصور القديمة. اليوم يقف المدرج كايقونة اثرية ومسرح ثقافي يلتقي فيه التراث والسياحة والذاكرة.",
+    "history": "شيد في القرن الثالث للميلاد في مدينة تيسدروس الرومانية المزدهرة، ويعكس قوة النخب المنتفعة من زراعة الزيتون في افريقيا البروقنصلية. لم يكتمل على الارجح وفق خطته الاكثر طموحا، لكنه اصبح واحدا من اكبر المدرجات في الامبراطورية الرومانية. على مر القرون ادّى ادوارا متعددة، منها ملجأ محصن في فترات الاضطراب. وقد حولته الدراسات الاثرية والحفاظ الحديث الى معلم رئيسي في التراث التونسي، وهو اليوم معترف به من اليونسكو كجزء من التراث العالمي المشترك.",
+    "imageUrl": "https://www.mywanderlust.pl/wp-content/uploads/2023/04/el-jem-amphitheatre-tunisia-21.jpg",
+    "images": [
+      "https://wildyness.com/uploads/0000/145/2024/03/28/amphitheatre-of-el-jem-tunisia.png",
+      "https://carthagemagazine.com/wp-content/uploads/2021/03/El-Jem-Amphitheatre-1170x1170.jpg",
+      "https://www.mywanderlust.pl/wp-content/uploads/2023/04/el-jem-amphitheatre-tunisia-112.jpg"
+    ],
+    "lat": 35.2964,
+    "lng": 10.7069,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "dougga",
+    "name": "موقع دقة الاثري",
+    "city": "باجة",
+    "description": "يوصف موقع دقة غالبا بانه اكمل مدينة رومانية صغيرة في شمال افريقيا، ويتربع على منحدر يطل على وديان خصبة. يضم الموقع معابد وحمامات ومنازل ومسرحا وشوارع مرصوفة وساحات مدنية تكشف ايقاع الحياة اليومية في العصور القديمة. جماله يأتي من العمارة والمنظر الطبيعي معا، حيث تمتزج انقاض الحجر الذهبي مع ضوء الريف التونسي المتغير. بالنسبة للزائر تبدو دقة كنسيج حضري محفوظ اكثر منها اطلالا متناثرة.",
+    "history": "عرفت قديما باسم ثوجا، وتطورت عبر مراحل نوميدية وبونية ورومانية، محتفظة باثار حضارات متعددة في مكان واحد. تحت الحكم الروماني ازدهرت كبلدية ذات مبان عامة مهيبة وبنية تحتية متقدمة. توفر النقوش والتخطيط العمراني ادلة مهمة عن الطبقات الاجتماعية والدين والادارة في افريقيا الرومانية. كشفت حفريات القرنين التاسع عشر والعشرين عن سلامة استثنائية للموقع، ما قاد الى الاعتراف به من اليونسكو كاحد اهم المشاهد الاثرية في تونس.",
+    "imageUrl": "https://wildyness.com/uploads/0000/145/2024/03/05/dougga-archeolocial-site-travel-guide.png",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiMvmeZeyU1MTquxvgfGUTQqvGmrdb49Krw&s",
+      "https://www.inp2020.tn/wp-content/uploads/2019/12/cromanaf8.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BFY6IncvFmT9pyGiOVBrfuM9bSZL4tz8MQ&s"
+    ],
+    "lat": 36.422,
+    "lng": 9.2199,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "carthage_site",
+    "name": "موقع قرطاج الاثري",
+    "city": "قرطاج",
+    "description": "تقع قرطاج على هضبة مطلة على خليج تونس، وهي من اساطير المتوسط حيث يلتقي الاسطورة بالامبراطورية والاثار. يواجه الزائر شبكة واسعة من البقايا—موانئ وفيلات وحمامات وبازيليكات واحياء—منتشرة داخل نسيج حضري معاصر. التجربة ليست اطلالا منفردة بل طبقات تاريخية يكشف كل منها فصلا جديدا. تمثل قرطاج العظمة والهشاشة معا، مدينة دمرت واعيد بناؤها وتخيلها مرارا.",
+    "history": "اسستها مستوطنات فينيقية في الالفية الاولى قبل الميلاد، ونمت كقوة بحرية وتجارية تنافس روما. بعد الحروب البونية وتدميرها عام 146 ق.م اعادت روما بناء قرطاج كمركز امبراطوري كبير في افريقيا. لاحقا اصبحت مهمة في التاريخ المسيحي المبكر قبل ان تتغير مراكز السلطة في العصور البيزنطية والاسلامية. كشفت الدراسات الاثرية من القرن التاسع عشر الى الحادي والعشرين ادلة بونية ورومانية ومتأخرة، ما يجعل قرطاج محورية لفهم التاريخ التونسي الطويل.",
+    "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_0037_0001-400-400-20151105154317.webp",
+    "images": [
+      "https://www.freetour.com/images/tours/51565/a-free-tour-of-carthage-archeological-site-06.jpg",
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/c3/e4/a4.jpg",
+      "https://guide-voyage-tunisie.com/wp-content/uploads/2022/11/carthage8-1024x768.webp"
+    ],
+    "lat": 36.8529,
+    "lng": 10.323,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "antonine_baths",
+    "name": "حمامات انطونين",
+    "city": "قرطاج",
+    "description": "تعد حمامات انطونين من اكبر المجمعات الحرارية الرومانية على الساحل الجنوبي للمتوسط. وحتى في حالتها الحالية، تعبر اساساتها الضخمة ومنصتها المطلة على البحر عن طموح امبراطوري وبراعة هندسية. يسمح الموقع بتخيل طقوس الاستحمام والرياضة والحديث التي شكلت الثقافة الحضرية الرومانية. كما يضيف الضوء والهواء البحريين بعدا شاعريا يجعل المكان لا ينسى.",
+    "history": "شيدت في القرن الثاني للميلاد خلال حكم انطونينوس بيوس، وكانت جزءا من البنية التحتية المهيبة لقرطاج الرومانية. حجمها وضعها بين اكبر حمامات العالم الروماني، وكانت تغذى بشبكات مياه متقدمة ومدعومة بهندسة قوية. رغم الزلازل والنهب والزمن الذي قلص البنية العليا، اوضحت الاعمال الاثرية مخططها ووظيفتها الاصلية. لا تزال شاهدا رئيسيا على الحياة الحضرية الرومانية في تونس.",
+    "imageUrl": "https://i0.wp.com/www.engagingcultures.com/wp-content/uploads/2023/03/Carthage-Antonine-Baths-View-from-Grotto-Shutterstock.jpg?ssl=1",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUXlfw5_bUg1LDle2JpQn8eDMELV3IHmfxw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbRXrHld0jGHLrtoHVTDFZ49lzLd7g3bYSQ&s",
+      "https://static.wixstatic.com/media/abb612_cb0ddae230014da998bc14d3766b266b~mv2.jpg/v1/fill/w_925,h_599,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/abb612_cb0ddae230014da998bc14d3766b266b~mv2.jpg"
+    ],
+    "lat": 36.853,
+    "lng": 10.3317,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "byrsa_hill",
+    "name": "تل بيرصة",
+    "city": "قرطاج",
+    "description": "يوفر تل بيرصة منظرا شاملا لقرطاج والبحر، ما يجعله قمة استراتيجية وقلبا رمزيا للمدينة القديمة. اليوم يجمع التل بين بقايا اثرية ومساحات متحفية وتفسير بانورامي للمشهد المحيط. وهو من افضل الاماكن لفهم كيف شكلت التضاريس التطور العمراني في العصور القديمة. تمتزج في المكان روح التأمل بالاكتشاف، رابطا التاريخ السياسي بالجغرافيا المعيشة.",
+    "history": "في الذاكرة البونية كان بيرصة يمثل القلعة، وفي العصر الروماني اعيد تخطيط المنطقة وبنيت عمارة مهيبة. كشفت الحفريات عن احياء سكنية بونية وتدخلات رومانية توضح التحول الدراماتيكي بعد الفتح. ثم اكتسب التل اهمية متجددة عبر المتاحف وتفسير التراث. لا يزال موقعا اساسيا لفهم هوية قرطاج قبل الرومان وبعدهم.",
+    "imageUrl": "https://novostar-hotels.com/en/wp-content/uploads/2021/07/1%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0-8.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lRxfhYRidNZcfCnpQ5-ddQfbUncPZBfO7Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrH9V09nS-EJ0up0RjjUxOVbK_g1Ey4zQwYg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRWQ3VBHrHXrPoEZnYChOxlyqXutnbsTxDQ&s"
+    ],
+    "lat": 36.8525,
+    "lng": 10.3236,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "medina_tunis",
+    "name": "مدينة تونس العتيقة",
+    "city": "تونس",
+    "description": "تمثل مدينة تونس العتيقة نسيجا حضريا كثيفا من الاسواق والمساجد والمدارس والقصور والورشات والازقة السكنية التي تجسد روح عاصمة اسلامية عبر قرون. تتراوح عمارتها بين الافنية الحميمة والواجهات المزخرفة التي تكشف تأثيرات عثمانية واندلسية ومحلية. وبعيدا عن المعالم، تبقي الحرف الحية والايقاعات الاجتماعية التاريخ حاضرا في الحياة اليومية. انها موقع تراثي ومنظومة ثقافية نابضة بالحياة.",
+    "history": "منذ العصور الوسطى تطورت المدينة العتيقة كمركز سياسي وديني وتجاري. تركت السلالات المتعاقبة—الحفصية والعثمانية والحسينية—طبقات معمارية ومؤسساتية في انحاء المدينة القديمة. ادت تحولات الحقبة الاستعمارية الى نقل السلطة الادارية، لكن المدينة احتفظت بأهميتها الرمزية والاقتصادية. ومع اعتراف اليونسكو بها اصبحت بؤرة للحفاظ على التراث وتجديد الحرف ودراسات التراث الحضري.",
+    "imageUrl": "https://www.kanaga-at.com/wp-content/uploads/2021/07/tunisia_tunisi_foto_i._fornasiero.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGamko6eo8IIuy55fbqQc4y5ioM_GcEHXwA&s",
+      "https://imandarin.fr/images/stories/tunisie/tunisie-55.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJIVRwy-mPyGeyYNecPsG5kCqtbGf6wFDDA&s"
+    ],
+    "lat": 36.7992,
+    "lng": 10.171,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "zitouna_mosque",
+    "name": "جامع الزيتونة",
+    "city": "تونس",
+    "description": "يعد جامع الزيتونة من اكثر معالم تونس الدينية والفكرية تأثيرا، ويتوسط العاصمة القديمة. تجسد قاعاته وساحته وبساطته المعمارية تقاليد طويلة من التعليم الاسلامي والسلطة الحضرية. حضوره يشكل المدينة العتيقة المحيطة، حيث تداخلت التجارة والعلم والعبادة تاريخيا. لكثير من الزوار يرمز الجامع الى استمرارية الايمان والمعرفة والهوية التونسية.",
+    "history": "تأسس في القرون الاسلامية الاولى وتوسع عبر الزمن، واصبح مركزا رئيسيا للتعليم في المغرب العربي. اثرت تقاليده العلمية في الثقافة الفقهية واللغوية والعقائدية في شمال افريقيا. حافظت التجديدات المعمارية عبر العصور على العناصر الاساسية مع تكييفها للسياقات الاجتماعية المتغيرة. واليوم يبقى معلما روحيا ومرجعا في تاريخ تونس الفكري والديني.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm22ulT0H5fsgN8GDH1elWpM9LXVqGZ8GSlQ&s",
+    "images": [
+      "https://carthagemagazine.com/wp-content/uploads/2021/06/Ez-Zitouna-Mosque-1024x683.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWe4ulhvO1qwjUJkSglDRslfWayGGPPuviA&s",
+      "https://madainproject.com/content/media/collect/dome_zaytuna_mosque_tunis_medina_881921.jpg"
+    ],
+    "lat": 36.7987,
+    "lng": 10.1697,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "kairouan_great_mosque",
+    "name": "الجامع الكبير بالقيروان",
+    "city": "القيروان",
+    "description": "يعد الجامع الكبير بالقيروان تحفة للعمارة الاسلامية المبكرة واحدا من ابرز المعالم الدينية في شمال افريقيا. ساحته الفسيحة ومئذنته وقاعة الصلاة ذات الاعمدة تمنح احساسا قويا بالنظام والهندسة المقدسة. يرسخ الجامع الهوية الروحية للمدينة ويجذب الزوار الباحثين عن الجمال والعمق التاريخي. وهو رمز بارز للتراث الاسلامي التونسي.",
+    "history": "تأسست القيروان في القرن السابع، وتطورت عمارة الجامع عبر اعادة بناء وتوسعات كبرى خصوصا في العصر الاغلبي. لعب دورا محوريا في نقل المعارف الدينية والنماذج الفنية عبر المغرب العربي وخارجه. عناصر معمارية مثل الاعمدة المعاد استخدامها تكشف الاستمرارية والتحول بين العوالم الكلاسيكية والاسلامية. لا يزال المعلم مركزيا في حفظ التراث وفهم تشكل الدولة في افريقية.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg/1280px-Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg",
+    "images": [
+      "https://scenehome.com/Content/Admin/Uploads/Articles/ArticlesMainPhoto/30826/91fded5f-f58d-4548-bcea-f6077ce5f99e.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJDRXTwuB1IDMqPpDg7Se2PV3wMxv-3QWwQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdF7ymyn2BpVfPCdYQeiivjvDvRMNdX_Mmlg&s"
+    ],
+    "lat": 35.6781,
+    "lng": 10.0963,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "medina_kairouan",
+    "name": "مدينة القيروان العتيقة",
+    "city": "القيروان",
+    "description": "تجمع مدينة القيروان العتيقة بين المكانة الدينية والتقاليد الحرفية والذاكرة الحضرية ضمن ازقة واحياء تاريخية. واجهاتها البيضاء وقبابها واسواقها تمنحها طابعا مختلفا عن المدن العتيقة الساحلية. يلتقي الزائر بالعمارة الدينية المهيبة وبالفراغات المحلية الحميمة. وتظل المدينة العتيقة مرجعا ثقافيا مهما في الذاكرة الجماعية التونسية.",
+    "history": "باعتبارها من اوائل المدن الاسلامية الكبرى في شمال افريقيا، كانت القيروان مركزا سياسيا وروحيا في العصور الوسطى. عكس نموها الحضري تأثير السلالات الحاكمة والمؤسسات الدينية وروابط التجارة عبر الصحراء والمتوسط. مع مرور القرون حافظت على اهميتها الرمزية رغم انتقال العواصم السياسية. وقد اعترف تصنيف اليونسكو ليس فقط بالمعالم الكبرى بل بالنسيج التاريخي للمدينة القديمة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0-Ns5aATrHXrqS9OT428UiopqwBQ40O2IQ&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vue_a%C3%A9rienne_de_la_Grande_Mosqu%C3%A9e_de_Kairouan%2C_en_Tunisie.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntGv3V-NLHX7ZtKuF6-74jjmQzcvzz6qAdQ&s",
+      "https://tunisie.co/uploads/images/content/medina-170217-3.jpg"
+    ],
+    "lat": 35.6794,
+    "lng": 10.1013,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "sousse_medina",
+    "name": "مدينة سوسة العتيقة",
+    "city": "سوسة",
+    "description": "مدينة سوسة العتيقة مدينة ساحلية محصنة حيث تلاقت التجارة البحرية والدفاع والحياة الحضرية عبر قرون. تشكل اسوارها وابوابها ومبانيها الدينية وشبكة ازقتها المدمجة مجموعة تاريخية متماسكة. قربها من البحر يمنحها طابعا استراتيجيا وجوا مميزا مقارنة بالمراكز الداخلية. ولا تزال من اكثر المشاهد الحضرية التاريخية ايحاء في تونس.",
+    "history": "تطورت منذ الفترة الاسلامية المبكرة وشكلتها الدول الاغلبية وما بعدها، لتصبح ميناء رئيسيا وعقدة دفاعية. يعكس رباطها وقصبتها وتحصيناتها هندسة عسكرية ملائمة لواقع الساحل. حافظت الوظائف التجارية والحرفية على الاستمرارية الحضرية رغم التحولات السياسية. وتؤكد اليونسكو على حفظها الاستثنائي واهميتها في تاريخ المدن المتوسطية.",
+    "imageUrl": "https://i0.wp.com/www.engagingcultures.com/wp-content/uploads/2019/09/The-Sousse-Grand-Mosque-Viewed-From-Above.jpg?ssl=1",
+    "images": [
+      "https://c8.alamy.com/compfr/cmmwnh/la-medina-sousse-le-sahel-la-tunisie-l-afrique-du-nord-afrique-cmmwnh.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eZ_uIhSS0T5k7C_v3_TX5QTGplcz4YchIg&s",
+      "https://www.pelago.com/img/products/TN-Tunisia/private-tour-of-medina-of-kantaoui-and-hergla/04098d97-4a67-4453-8bcd-2b793c42f6e8_private-tour-of-medina-of-kantaoui-and-hergla.jpg"
+    ],
+    "lat": 35.826,
+    "lng": 10.6369,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "ribat_sousse",
+    "name": "رباط سوسة",
+    "city": "سوسة",
+    "description": "رباط سوسة حصن ودير صغير لكنه لافت يجسد العمارة الدفاعية الاسلامية المبكرة. ابراجه وساحته وتصميمه الحجري الصارم يعكسان اليقظة والانضباط الروحي. موقعه قرب المدينة العتيقة والواجهة البحرية يساعد على تصور شبكات الحراسة الساحلية في المغرب الوسيط. ويظل احد اكثر معالم المدينة تميزا.",
+    "history": "شيد في القرون الاسلامية الاولى ثم عُدّل لاحقا، وكان يؤدي وظائف دفاعية وربما دينية مرتبطة بحراسة الثغور. يعكس تصميمه التخطيط العسكري الاغلبي على طول ساحل افريقية. ساعدت حملات الترميم على تثبيت بنيته مع الحفاظ على عناصره التاريخية الرئيسية. وهو اليوم معلم تراثي وموقع تفسيري مهم ضمن مجموعة سوسة المدرجة في اليونسكو.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCVwp6Tz9A87h5GWtx89Ib4zUpNMA4BO1oQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRluJdEdUwLEWm3mRiQbkdTduqnXiiQ4U-_Tg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmoGH3gi8-9N61T2vHqiwRST0E8BMuGASgQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpYf6DTlIY7qCW5S7U-otuHm8sxmNIcC83w&s"
+    ],
+    "lat": 35.8282,
+    "lng": 10.6412,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "ribat_monastir",
+    "name": "رباط المنستير",
+    "city": "المنستير",
+    "description": "يطل رباط المنستير على الساحل وهو من اكثر الحصون التونسية جمالا وعمقا تاريخيا. جدرانه وابراجه واطلالاته المرتفعة تصنع لقاء دراميا بين الحجر والبحر. يجمع الزائر بين التاريخ العسكري والجو السينمائي، اذ استُخدم الموقع في اعمال عالمية عدة. وهو مدخل حي لفهم التراث الساحلي التونسي.",
+    "history": "تأسس في الفترة الاسلامية المبكرة وتوسع في القرون اللاحقة، وكان جزءا من سلسلة دفاعات ساحلية. تولى حراسة الممرات البحرية وتمثيل سلطة الدولة والتقوى الحدودية. ادت الاصلاحات المتعاقبة الى تغير شكله مع الحفاظ على منطق دفاعه. واليوم يُحفظ كمعلم اساسي في العمارة التونسية الوسيطة والهوية الوطنية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEVALrLs0UsZ8VZTpKsB22Xk-sTA2Fbx-Lw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHb0kCXNkxzsrJKm-faMr5XsPayW7pzDY0g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrDLj2zG-P0P5_aR8u7cOea7buaPHg184rQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHb0kCXNkxzsrJKm-faMr5XsPayW7pzDY0g&s"
+    ],
+    "lat": 35.7774,
+    "lng": 10.8343,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "kerkouane",
+    "name": "موقع كركوان الاثري",
+    "city": "نابل",
+    "description": "كركوان من المواقع الحضرية البونية النادرة التي لم تغطها اعادة البناء الرومانية، ما يمنحها قيمة اثرية استثنائية. تكشف البقايا عن تخطيط الشوارع والمساحات المنزلية والثقافة المادية المرتبطة بحضارة قرطاج. يقع الموقع قرب ساحل الوطن القبلي ويجمع بين العمق التاريخي والهدوء الطبيعي. ويوفر نافذة فريدة على الحياة الحضرية قبل الرومان في تونس.",
+    "history": "كان مأهولا في الفترة البونية ثم هُجر قبل اعادة الاستيطان الروماني، محافظا على ادلة عمرانية مختلفة عن الطبقات الامبراطورية اللاحقة. كشفت الحملات الاثرية عن انماط سكنية وقطع اثرية واثار حرفية غيرت فهم المجتمع البوني. ندرته وسلامته قادتا الى ادراجه ضمن قائمة التراث العالمي لليونسكو. ولا يزال محوريا في نقاشات الهوية الفينيقية البونية وشبكات التبادل المتوسطية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz3MJrUrlHVSWKeIaGgaK_o0gsi7T0y8eQQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Wv6Y_hGx7U7rDoE1np4bqClY0iLTpMsPyw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUdBpqkGeavwZ_UieG0mETK3VSvoawClOgJg&s",
+      "https://www.christravelblog.com/wp-content/uploads/2020/02/kerkouane-punic-city-house-seaview-tunisia-kerkouane-kelibia-day-trip-from-sousse-tunis-IMG_5459.jpg"
+    ],
+    "lat": 36.9437,
+    "lng": 11.0978,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "bulla_regia",
+    "name": "بولا رجيا",
+    "city": "جندوبة",
+    "description": "تشتهر بولا رجيا بمنازلها الرومانية تحت الارض، حيث تظهر الغرف الباردة تكيفا ذكيا مع المناخ. ينتقل الزائر بين الاطلال السطحية والمستويات السفلية المحفوظة المزينة بالفسيفساء والتفاصيل المعمارية. يمنح هذا النسيج العمراني غير المعتاد الموقع هوية مميزة بين مواقع شمال افريقيا الاثرية. انه مهم علميا ولا ينسى من حيث التجربة.",
+    "history": "كانت في البداية مركزا نوميديا ثم مدينة رومانية، وازدهرت ضمن شبكة تونس الداخلية الزراعية والادارية. تعود المساكن الارستقراطية شبه الجوفية الى العصر الامبراطوري الروماني وتعكس استجابة محلية للبيئة. كشفت الحفريات عن فسيفساء غنية وتخطيطات منزلية تفيد دراسات الطبقة والراحة والمناخ في العصور القديمة. تستمر جهود الحفظ لتحقيق توازن بين الاتاحة وصيانة المساحات الجوفية الهشة.",
+    "imageUrl": "https://www.inp2020.tn/wp-content/uploads/2021/05/bullaregia.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2BR3guTlvV7DU-agzbsXcCGsntIcnd6H3A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OnaWYmr1IF2wFIGnPIjvVk8fX4YirrR4Xw&s",
+      "https://cdn2.webmanagercenter.com/wmc/wp-content/uploads/2018/04/site-archeologique-bullaregia.jpg"
+    ],
+    "lat": 36.561,
+    "lng": 8.7592,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "sbeitla_sufetula",
+    "name": "سبيطلة (سوفاتولا)",
+    "city": "سبيطلة",
+    "description": "تقدم سبيطلة احد اروع المجمعات الاثرية الرومانية البيزنطية في تونس، بشوارع واسعة وساحات مدنية ومعابد ما زالت تحدد الافق. يبرز المنتدى المركزي بتوازن تكوينه وحالته الجيدة. يتيح الموقع تتبع الانتقال من الحياة المدنية الرومانية الوثنية الى المسيحية في اواخر العهد القديم. وضوحه وحجمه يجعلان منه مكانا مثاليا لفهم التحول الحضري عبر العصور.",
+    "history": "عرفت قديما باسم سوفاتولا، وتوسعت بفضل الرعاية الامبراطورية والازدهار الاقليمي. تضم مبانيها معابد الكابيتول والحمامات والكنائس والتحصينات البيزنطية، ما يدل على استمرارية الاستيطان. وثقت الابحاث الاثرية التحولات المعمارية والدينية بين القرنين الثاني والسابع للميلاد. اليوم يعد الموقع ركنا اساسيا لتفسير تاريخ وسط تونس في العصور المتأخرة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxbdSpmBXVG_Gq8vqkrRqDbBAcOq1AFHYgQ&s",
+    "images": [
+      "https://www.guidesulysse.com/imageswebp/destinations/iStock-540847436.webp",
+      "https://destination-tunis.fr/wp-content/uploads/Forum-Sbeitla.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvRNQyhB6hLCXII_V-sLxkckdwC83uxQ-Rw&s"
+    ],
+    "lat": 35.2378,
+    "lng": 9.1246,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "utina_outhina",
+    "name": "اوثينا (اودهنا)",
+    "city": "بن عروس",
+    "description": "توفر اوثينا منظرا اثريا واسعا يضم مدرجا وكابيتول وحمامات ومناطق سكنية قرب تونس الحديثة. تضاريسها المنقبة جزئيا تمنح احساسا بمدينة تخرج من الارض، ما يحفز الخيال والبحث. ويعد المدرج ذو البنية السفلية المحفوظة جيدا من ابرز معالمها. يجسد الموقع الغنى غير المستغل بالكامل للاراضي الاثرية حول قرطاج.",
+    "history": "تأسست في العصور القديمة ثم تحولت الى مستعمرة رومانية، واصبحت مركزا اقليميا مهما مرتبطا بالانتاج الزراعي والادارة الامبراطورية. كشفت الحفريات عن عمارة مهيبة وسكنية تمتد عبر الفترات الرومانية وما بعدها. لا يزال جزء كبير من الموقع غير مستكشف، ما يجعله مهما للابحاث المستقبلية. تقدم اوثينا ادلة مهمة لفهم الشبكات الحضرية المحيطة بقرطاج القديمة.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8e/4b/ee/uthina-oudhna.jpg?w=900&h=500&s=1",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtE37OrCCy-iWkYhNyjjPEyJEOYnhC2RHFQA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzoZ7HKdou1pyT2SmG_LXoud97cxkWQiBEw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7u2KgzGF0gjBgZZJIexopXCJyqa9mq7feA&s"
+    ],
+    "lat": 36.673,
+    "lng": 10.033,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "chemtou",
+    "name": "شمتو (سيميثوس)",
+    "city": "جندوبة",
+    "description": "تشتهر شمتو بمقالع الرخام القديمة حيث تتقاطع الجيولوجيا مع السلطة الامبراطورية في مشهد درامي. الرخام الاصفر النوميدي المستخرج هنا انتقل عبر العالم الروماني لتزيين المباني المهيبة. تساعد البقايا الاثرية ومركز التفسير على ربط الانتاج الصناعي بالاقتصاد السياسي. تكشف شمتو دور تونس في تزويد الشبكات الامبراطورية بمواد فاخرة.",
+    "history": "عرف الموقع في العصر الروماني باسم سيميثوس، واكتسب اهمية استراتيجية بسبب موارده الحجرية، خاصة رخام جيلو انتكو. جعلت عمليات الاستخراج والنقل وتنظيم العمل منه منظرا صناعيا رئيسيا في العصور القديمة. تتبعت الدراسات الاثرية والجيواثرية مسارات توزيع الحجر خارج افريقيا بكثير. ويعد الموقع اليوم حالة دراسية محورية لاستغلال الموارد واللوجستيات الامبراطورية.",
+    "imageUrl": "https://www.inp2020.tn/wp-content/uploads/2022/06/chimtou.jpg",
+    "images": [
+      "https://img9.digsty.com/RoS0sIqaqVnv1MjU8-uVyJrgQdV0JJAK58K1zC33ehw/rs:fill:230:230:1/g:fp:0.5:0.5/czM6Ly9hcm91bmR1cy8xNC85NjM2OTI3LTYwZWViMTIyLmpwZw.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chimtou%2C_numidische_Grabbauten_unter_r%C3%B6mischem_Forum.jpg/250px-Chimtou%2C_numidische_Grabbauten_unter_r%C3%B6mischem_Forum.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDA5OmYFY_zy8NB_3Z8zhIfN2BcDfuR23--Q&s"
+    ],
+    "lat": 36.479,
+    "lng": 8.573,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "makthar",
+    "name": "مكثار (ماكتاريس)",
+    "city": "سليانة",
+    "description": "يجمع مكثار بين اثار ميغاليثية وتراث نوميدي وبقايا حضرية رومانية في بيئة مرتفعة ذات اهتمام اثري كبير. يشاهد الزائر اقواسا وحمامات ومنشآت مدنية توضح الاستمرارية عبر مراحل ثقافية متعددة. كما يخلق المشهد الجبلي والمعالم المتناثرة جوا تأمليا يختلف عن اطلال المدن الكثيفة. وهو مقصد مناسب لفهم الطبقات التاريخية العميقة في داخل تونس.",
+    "history": "تطورت ماكتاريس القديمة من تقاليد استيطان ما قبل الرومان الى مدينة رومانية ذات عمارة عامة ونقوش توثق الحياة المدنية. ساعد موقعها الاستراتيجي على التفاعل بين المجتمعات المحلية والبنى الامبراطورية. كشفت الحفريات عن معالم جنائزية ومعابد ومساحات عامة تمتد عبر عدة قرون. يبقى مكثار مهما لدراسة التحولات بين النظم الاجتماعية والسياسية المحلية والرومانية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYFx_3EmuQJNhRn5xhdwdaNNzIxflfbi9ig&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Makthar_arc_Trajan.jpg/250px-Makthar_arc_Trajan.jpg",
+      "https://www.inp2020.tn/wp-content/uploads/2020/09/grands_Thermes-_Sud-Est-1024x679.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBF6cxPMy3kFxTBGPuGuDmEl0JDIEokPoCw&s"
+    ],
+    "lat": 35.857,
+    "lng": 9.206,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "thuburbo_majus",
+    "name": "ثوبوربو ماجوس",
+    "city": "زغوان",
+    "description": "ثوبوربو ماجوس موقع روماني واسع يضم كابيتولا ومنتدى وحمامات وبقايا سكنية ضمن هضبة مفتوحة. يسمح اتساع تخطيطه بتقدير التخطيط الحضري والضخامة بعيدا عن حقول اطلال مكتظة. تعكس البقايا العظمة المدنية والحياة العملية اليومية في روما الاقليمية. وهو محطة مهمة لاستكشاف التراث الكلاسيكي في شمال تونس.",
+    "history": "تطور الاستيطان من جذور نوميدية بونية وبلغ نضجا حضريا تحت الادارة الرومانية. تشير المباني العامة والنقوش الى نخب محلية استثمرت في العمارة المدنية والولاء الامبراطوري. بينت اعمال الحفريات والتثبيت خلال القرن العشرين مراحل التوسع والانحسار. ويسهم الموقع اليوم في الدراسات المقارنة للمدن الرومانية المتوسطة في افريقيا.",
+    "imageUrl": "https://voyage-tunisie.info/wp-content/uploads/2017/12/THUBURBO-MAJUS4-800x500.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzbJAbpsycBdZLcah4hkQbe5pdD-2G321_w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-OmThAhRcpWLc5dUHdLiViqcs0es5UPBYg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2CNhL1YFUVfsbEiedKb0-F32205deUIBqw&s"
+    ],
+    "lat": 36.506,
+    "lng": 10.004,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "haidra_ammaedara",
+    "name": "حيدرة (عمادارة)",
+    "city": "القصرين",
+    "description": "تحفظ حيدرة بقايا رومانية وبيزنطية مهمة في غرب تونس، منها منشآت عسكرية ومدنية مرتبطة بديناميات الحدود. يبرز موقعها القاسي قرب المسالك الجبلية وظيفتها الاستراتيجية في العصور القديمة. ورغم قلة السياحة مقارنة بالمواقع الساحلية، تحمل قيمة تاريخية كبيرة في التاريخ العسكري والاداري. تكافئ حيدرة الزوار المهتمين بالمواقع الاقل شهرة والاكثر تأسيسا.",
+    "history": "عرفت باسم عمادارة، بدأت كمستعمرة عسكرية رومانية ثم تطورت الى مركز اقليمي مهم. موقعها قرب طرق الداخل منحها اهمية لوجستية عبر الفترات الرومانية والمتأخرة. تشمل البقايا عمارة احتفالية وكنائس وعناصر دفاعية تعكس التغيرات السياسية. يوضح الموقع كيف اندمجت مناطق الحدود في الانظمة الامبراطورية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL4BdZYSB2TpSm2SKQyZi1eNTX3vF_yiddaQ&s",
+    "images": [
+      "https://www.nachoua.com/Avril-2008/Avril2008_233.JPG",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshzgLPGTnl7yJMFBJih4Z8ZwTkYkyesXU3g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMnAoeWgldkZhy0l4HKhSkgqWiQEgQfbDoQ&s"
+    ],
+    "lat": 35.568,
+    "lng": 8.448,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "ksar_ouled_soltane",
+    "name": "قصر اولاد سلطان",
+    "city": "تطاوين",
+    "description": "قصر اولاد سلطان مجمع مخازن متعدد المستويات في الجنوب التونسي، مشهور بغرفه المقببة وعمارة الطين. تصنع اشكال خلايا التخزين المكدسة منظرا هندسيا قويا. يجسد التنظيم الجماعي والتكيف مع البيئات الجافة والتقاليد الهندسية المحلية. اكتسب الموقع شهرة دولية مع بقائه متجذرا في التراث المحلي.",
+    "history": "بني وتوسع عبر قرون على يد مجتمعات امازيغية، وكان القصر يستخدم كمخزن جماعي محصن للحبوب والاشياء الثمينة. تعكس عماراته التعاون الاجتماعي وادارة الموارد والحاجات الدفاعية في منطقة شبه جافة. في العصر الحديث جلبت شهرة السينما مزيدا من السياحة والاهتمام بالحفظ. لا يزال القصر معلما رئيسيا لفهم الهوية المعمارية لجنوب تونس.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrlEkYlI4xJf9INljrw4GFAgZMR4BpwVU54w&s",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5c/55/d6/cour-interieur-du-ksar.jpg?w=1200&h=-1&s=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3sATNiSKptp5MYqOC-mfqsJfhN2JWgGXfA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx56snqO8J_jKNrYSlFuD1YuIzahYWH2uJMA&s"
+    ],
+    "lat": 32.952,
+    "lng": 10.304,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "chenini",
+    "name": "شنني",
+    "city": "تطاوين",
+    "description": "شنني قرية امازيغية فوق تلة معروفة بموقعها الدرامي ومساحاتها الكهفية وعمارتها الترابية المتدرجة المطلة على السهل الصحراوي. تبدو مبانيها متصلة عضويا بالصخور، ما يخلق انسجاما نادرا بين المستوطنة والمنظر الطبيعي. يختبر الزائر تراثا روحيا ومنزليا عبر المساجد والمساكن والمسارات. شنني من اكثر المشاهد الثقافية ايحاء في الجنوب التونسي.",
+    "history": "نشأت القرية كمستوطنة دفاعية وجماعية للسكان الامازيغ الذين واجهوا عدم الاستقرار والقيود البيئية. عبر اجيال تكيفت العمارة مع المناخ واحتياجات التخزين والتنظيم الاجتماعي. ومع التحديث تغيرت بعض انماط السكن، لكن شنني احتفظت باهمية تراثية ورمزية كبيرة. وهي اليوم مركزية في حفظ ذاكرة الامازيغ وتفسيرها في تونس.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1DvrWZbS1ZU9mkef6VZyT_-3YMc7aUQ9Tw&s",
+    "images": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/13/e3/0f/93.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xHl45Kmvu9z7e8S0A1j1NOnlApVx1FYwLA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3xk5GbUnfTy4T2Q5siigul8WtnQj64l0Kw&s"
+    ],
+    "lat": 32.927,
+    "lng": 10.272,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "matmata",
+    "name": "مساكن مطماطة الكهفية",
+    "city": "قابس",
+    "description": "تشتهر مطماطة بمنازلها المحفورة حول ساحات تحت الارض، ما يوفر عزلا طبيعيا في مناخ قاس. العمارة هنا عملية ومميزة في آن واحد، وتقدم مثالا قويا على التكيف البيئي عبر التصميم المحلي. يكتشف الزائر عالما منزليا فريدا يرتبط فيه الشكل بالوظيفة والهوية. كما نالت المنطقة شهرة عالمية عبر السينما، ما عزز حضورها الثقافي.",
+    "history": "تعكس السكنى الكهفية في مطماطة تقاليد استيطان امازيغية قديمة تكيفت مع الجفاف وتطرف الحرارة. تنتظم البيوت حول حفر مركزية مع غرف محفورة شعاعيا لضمان الراحة الحرارية والخصوصية. في اواخر القرن العشرين زاد التعرض الاعلامي من السياحة، ما جلب فرصا وتحديات للحفظ. تقع مطماطة اليوم عند تقاطع الثقافة الحية وادارة التراث والخيال العالمي.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PrIjaEDqQMng-A7SMSorstFrgJLYfDzVKg&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmp5KTBS6_WO0E-Gei_HWnWw0BVpIgols4TQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM_SNZYXdSYPJnVJQ6AD3i7JSNTVR0E3OPw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCTX1WJh9a3Ey05ntv9-zyAaFVlHhqFu8FA&s"
+    ],
+    "lat": 33.544,
+    "lng": 9.971,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "mos_espa",
+    "name": "قصور جهة مدنين",
+    "city": "مدنين",
+    "description": "تشكّل قصور الجنوب الشرقي التونسي—مخازن حصينة وعمارة تخزين—شبكة تراثية مدهشة مرتبطة بأنماط العيش الامازيغية وعلاقات ما وراء الصحراء. وحداتها المقببة المتكررة وموادها الترابية ومواقعها المرتفعة تمنحها هوية معمارية فريدة. تعبر هذه البنى عن تعاون اقتصادي ومرونة ترابية وتكيف مع واقع شبه صحراوي. مجتمعة تمثل ارشيفا حيا للتاريخ الاجتماعي لجنوب تونس.",
+    "history": "تطورت عبر قرون، وكانت القصور تعمل كبنية تخزين جماعي ودفاعي للمجموعات الريفية وشبه الرحل. كانت مرتبطة بطرق التجارة والحركة الموسمية والتنظيم القائم على القرابة. غيرت التحولات الاستعمارية وما بعد الاستعمار وظائفها الاقتصادية، لكن العديد منها بقي كمعالم تراثية. تهدف اعمال التوثيق والترميم الجارية الى حفظ هذا التقليد المعماري للاجيال القادمة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4fg3wjfw0xaD7e3QsCROxQmQUC_ixjZsug&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdda3L8qzQHF_PU97BR77WOHrdgxokTnXUrQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cjLJgJXClKgOUtp17Wjfv0TgXQDfx--OOg&s",
+      "https://news.gnet.tn/wp-content/uploads/2025/02/medenine.jpg"
+    ],
+    "lat": 33.354,
+    "lng": 10.505,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "djerba_ghriba",
+    "name": "كنيس الغريبة",
+    "city": "جربة",
+    "description": "الغريبة من اقدم واهم المعابد اليهودية في شمال افريقيا وتقع في جزيرة جربة. عمارتها البيضاء والزرقاء واجواءها الروحية جعلتها موقعا مهما للحج والتراث المشترك بين الجماعات. يعكس المعلم تاريخ تونس الطويل في التعدد الديني والتعايش الثقافي. وما زال مكانا تعاش فيه الايمان والذاكرة والهوية.",
+    "history": "ترتبط اصول الكنيس بالحضور اليهودي القديم في المنطقة، فيما تعكس البنية الحالية اعادة بناء وتوسعات لاحقة. عبر القرون اصبح وجهة رئيسية للحج السنوي ورمزا للتراث اليهودي في تونس. صموده امام التحولات السياسية والاجتماعية يبرز مرونة تقاليد الاقليات في شمال افريقيا. واليوم يُعترف بالغريبة كمعلم بارز في النسيج التاريخي المتعدد لتونس.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhCYMeacykSP00FgEJVSk_D6glEqrda-WQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfkjWaicJ4TIMjy2I55LT2zfUNL2TESbSMw&s",
+      "https://www.ruedusejour.com/wp-content/uploads/2009/10/p9030583.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DuQsQYozu-8073Rx0Z1712aVKjdSbO4lyA&s"
+    ],
+    "lat": 33.807,
+    "lng": 10.855,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "utique",
+    "name": "موقع اوتيك الاثري",
+    "city": "بنزرت",
+    "description": "تعد اوتيك من اقدم المستوطنات الفينيقية في شمال افريقيا وموقعا اساسيا لفهم التحولات قبل القرطاجية والرومانية. يقدم المتنزه الاثري بقايا منازل وحمامات واثار عمران في بيئة ريفية هادئة. ورغم انه اقل ضخامة من مواقع اخرى، فان عمقه التاريخي استثنائي. يوفر اوتيك تجربة هادئة لكنها شديدة الاهمية لفهم تاريخ تونس المتوسطي المبكر.",
+    "history": "اسسها الفينيقيون في العصور القديمة، وسبقت قرطاج ثم اندمجت لاحقا ضمن البنى السياسية الرومانية. غيّرت تحولات السواحل والانهار علاقتها بالبحر عبر القرون. كشفت الحفريات عن تتابعات استيطان طويلة تُضيء تغيرات التجارة والحكم والحياة الحضرية. تظل اوتيك حاسمة لاعادة بناء شبكات الاستعمار المبكر في غرب المتوسط.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b5/b0/c3/utica.jpg?w=900&h=500&s=1",
+    "images": [
+      "https://www.inp2020.tn/wp-content/uploads/2020/06/image013.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c_Z-5d-kTjcvZXTejjFwdWZ-x3m6zzMOIQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxI8fsSq0ePLFTQ_Guda2HWnUbstJNsjIIWQ&s"
+    ],
+    "lat": 37.056,
+    "lng": 10.06,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "bizerte_old_port",
+    "name": "الميناء القديم ببنزرت",
+    "city": "بنزرت",
+    "description": "يجمع الميناء القديم ببنزرت بين سحر البحر وطبقات من التأثيرات العثمانية والاندلسية والمتوسطية الحديثة. واجهته المائية الشبيهة بالقناة وواجهاته التاريخية وتقاليد الصيد تشكل فضاء تراثيا نابضا. ورغم انه ليس اطلالا اثرية كلاسيكية، فهو يعكس علاقة تونس الحضرية الطويلة بالبحر. إنه منظر ثقافي للذاكرة والعمل والحياة اليومية.",
+    "history": "تطورت بنزرت عبر مراحل فينيقية ورومانية واسلامية وعثمانية واستعمارية، وكل مرحلة شكلت بنيتها البحرية. اصبح الميناء القديم مركزا للتجارة والنشاط البحري والاقتصاد المحلي. غيرت التحولات الحضرية في القرنين التاسع عشر والعشرين اجزاء من نسيجه مع الحفاظ على علامات الهوية الرئيسية. اليوم يظل واجهة بحرية غنية بالتراث ضمن تاريخ تونس الساحلي الشمالي.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJuhEHpAB8Wx7qeLyVn-NCWSMGiuH_PwNZQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ExxNlvW_1mKMKtr18Pl6VSz-b0IFF39KRg&s",
+      "https://www.impressivetunisia.com/wp-content/uploads/2022/12/Vieux-port-de-bizerte-panoramique-1.jpg",
+      "https://thumbs.dreamstime.com/b/le-port-de-bizerte-en-tunisie-vieux-est-une-ville-situ%C3%A9e-afrique-du-nord-c-la-plus-septentrionale-d-302827103.jpg"
+    ],
+    "lat": 37.274,
+    "lng": 9.873,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "testour_grand_mosque",
+    "name": "الجامع الكبير بتستور",
+    "city": "باجة",
+    "description": "يعد الجامع الكبير بتستور معلما مميزا مرتبطا بالتراث الاندلسي في تونس. تعكس عمارته وتفاصيله المزخرفة وسياقه الحضري انتقال الثقافة وتكيفها بعد الهجرة من ايبيريا. يساهم الجامع في هوية تستور كمركز للذاكرة والحرف. وهو رمز لقدرة تونس على استيعاب التقاليد المتنوعة واعادة تفسيرها.",
+    "history": "تشكلت تستور بفضل مجتمعات اندلسية استقرت في تونس في بداية العصر الحديث. وقد بُني الجامع ضمن هذا السياق التاريخي، ويُظهر ملامح اسلوبية متأثرة بالاندلسيين والعثمانيين. مع مرور الزمن اصبح مركزا دينيا وعلامة على استمرارية الجماعة. تسلط السرديات التراثية لتستور الضوء على الهجرة والمرونة وتكوين مشاهد ثقافية هجينة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-c3DTC3CkhkuZSKGONnjMt2IC1YPZF12mg&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grande_Mosquee_de_Testour_minaret_detail.jpg/250px-Grande_Mosquee_de_Testour_minaret_detail.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XSlISkn8FdJyGHwg8ejoAfZfbrpwM3doqQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6-TU3Ba0A7VeBGyAY_LvGDTh3DgumRyNPA&s"
+    ],
+    "lat": 36.551,
+    "lng": 9.443,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "zaghouan_temple_waters",
+    "name": "معبد مياه زغوان",
+    "city": "زغوان",
+    "description": "عند سفح الجبل يقف معبد مياه زغوان كاحد اجمل المعالم الرومانية المائية في تونس. يشير البناء الى مصدر قناة مائية كانت تزود قرطاج بالماء عبر مسافات طويلة. تمنح بساطته المعمارية ومحيطه الطبيعي لقاء راقيا مع الهندسة القديمة. يربط الموقع بين المشهد الطبيعي والتقنية والحياة الحضرية في سرد واحد.",
+    "history": "طوّر المعبد والقناة المرتبطة به في العهد الروماني لتلبية احتياجات قرطاج والمستوطنات المحيطة. يجسد هذا النظام المائي تقدما في المسح والبناء وادارة المياه في السياقات الاقليمية. ورغم ان بعض اجزائه مهدمة، لا تزال العناصر الباقية تكشف عن تطور البنية التحتية الرومانية في تونس. يعد المعلم محوريا لدراسة التكيف البيئي والتخطيط الحضري الامبراطوري.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5wC58ZEfRBXW2rkzG2EoVUjUvo4VxUw1bQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutolmIdMWcXRdYKswDGPMq2PHIJsKHdVutQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqOC9wtwDoWWlyxaCpSyONBwtQubdfZb9GQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH74R57zcIRoJ2xz4aU4gusAniZ5M5a3Pm4g&s"
+    ],
+    "lat": 36.402,
+    "lng": 10.142,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "bardo_museum",
+    "name": "متحف باردو الوطني",
+    "city": "تونس",
+    "description": "يعد متحف باردو الوطني من اهم المتاحف في المتوسط، ويشتهر بمجموعته الاستثنائية من الفسيفساء الرومانية واللقى الاثرية. يقع داخل قصر باي قديم ويجمع بين العمارة السلطانية والقيّم المتحفي الرفيع. تقود القاعات الزائر عبر الثقافات البونية والرومانية والمسيحية المبكرة والاسلامية، مقدمة سردا شاملا لتاريخ تونس. المتحف مؤسسة علمية وبوابة عامة لفهم التراث الوطني.",
+    "history": "انشئ كمتحف في اواخر القرن التاسع عشر، واصبح مستودعا رئيسيا لنتائج الحفريات الكبرى في تونس. توسعت مجموعاته مع البعثات الاثرية التي وثقت افريقيا الرومانية والحضارات الاقدم. ادت اعمال التجديد والتحديث المتحفي الى تحسين العرض مع الحفاظ على الطابع التاريخي للقصر. اليوم يبقى باردو لا غنى عنه للبحث والتعليم والدبلوماسية الثقافية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdlW1LJAQephq8Luj9YfLsVBNRNXTcPpwnA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCnvbMgzYnp2mdj9DlJ8LKSWdVsL772eLrg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc14xQdTciZWmffoBAozxL2CP7e3BgkGX76A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKHeZksBVNSyqvoUX-LxmBHeG6p2ogcRZjA&s"
+    ],
+    "lat": 36.8092,
+    "lng": 10.133,
+    "category": "متحف"
+  },
+  {
+    "id": "carthage_national_museum",
+    "name": "متحف قرطاج الوطني",
+    "city": "قرطاج",
+    "description": "يعرض متحف قرطاج الوطني اكتشافات اثرية رئيسية من احدى اكثر مدن العالم القديم شهرة. يقع قرب تل بيرصة ويمنح سياقا للاطلال المحيطة عبر القطع والنقوش والعروض التفسيرية. يساعد المتحف الزائر على ربط البقايا المتفرقة بالسرديات الاوسع للحضارة البونية والرومانية. وهو محطة اساسية لفهم قرطاج بما يتجاوز الموقع المفتوح.",
+    "history": "تم تطوير المتحف للحفاظ على مكتشفات حفريات قرطاج وتقديمها، ولعب دورا مهما في تشكيل المعرفة العامة بتاريخ المدينة. تضم مجموعاته مواد من المراحل البونية والرومانية والمتأخرة، ما يعكس تحولا حضريا طويل الامد. تطورت جهود العرض مع المعارف الاثرية الجديدة وممارسات التراث. ولا يزال المتحف مركزيا في تفسير قرطاج كرمز تاريخي عالمي.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGlI31lZDFZApArkRVipSXarNApMxF1BcvQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j-NsR26erQiu6DVC-CBBVOWJJTZ8OoXG-A&s",
+      "https://news.gnet.tn/wp-content/uploads/2021/12/Carthage-National-Museum.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBOzDi0SVG3GUyPLfqhtuPqB32fXwqs8IzUQ&s"
+    ],
+    "lat": 36.8525,
+    "lng": 10.3236,
+    "category": "متحف"
+  },
+  {
+    "id": "sousse_arch_museum",
+    "name": "المتحف الاثري بسوسة",
+    "city": "سوسة",
+    "description": "يقع المتحف الاثري بسوسة داخل منطقة القصبة التاريخية، ويضم مجموعة متميزة من الفسيفساء والقطع الاثرية من حضرمتوم والمناطق المجاورة. تكشف المعروضات جوانب الحياة المنزلية والاساطير والقيم الاجتماعية عبر سرد بصري غني. يضيف موقعه في المدينة القديمة تجربة طبقية حيث تتكامل القراءة المتحفية مع النسيج الحضري التاريخي. يعد المتحف ركيزة ثقافية مهمة على ساحل الساحل التونسي.",
+    "history": "نشأ المتحف من نشاط اثري اقليمي يهدف الى حفظ الاكتشافات من المواقع الرومانية وما بعدها في وسط شرق تونس. ومع الزمن نالت مجموعته من الفسيفساء اعترافا لجودتها وتنوعها الايقوني. ساهم التطور المؤسسي في تحسين الحفظ والوصول العام مع الحفاظ على الصلة بالتاريخ المحلي. اليوم يخدم المتحف كمرجع بحثي ووجهة رئيسية للسياحة التراثية.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Archaeological_Museum_of_Sousse_07042013.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCR-gNoStW_Bi0zKxy6iZqO5rSo86KSrFvnQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxE4rI6hBRt90T4FMPQbjT7PbDypHSLIU-w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEbuj7PMmVdKxxv6lWYb-5cjpJcn1qf_z3Q&s"
+    ],
+    "lat": 35.8256,
+    "lng": 10.636,
+    "category": "متحف"
+  },
+  {
+    "id": "el_jem_museum",
+    "name": "المتحف الاثري بالجم",
+    "city": "الجم",
+    "description": "يكمل المتحف الاثري بالجم زيارة المدرج عبر عرض فسيفساء وتماثيل وقطع منزلية من ثيسدروس القديمة. تساعد قاعاته على الانتقال من المشهد الضخم الى تفاصيل الحياة اليومية في المدينة الرومانية. يركز السرد المتحفي على الازدهار المحلي والفن والحياة الحضرية. ويعمق فهم الجم بما يتجاوز معلمها الايقوني.",
+    "history": "انشئ المتحف لاحتضان مكتشفات الحفريات في الجم ومحيطها، واصبح جزءا اساسيا من مسار التراث بالموقع. توثق مجموعاته الفيلات الخاصة والحرف والصور الدينية من العصر الروماني. حسنت برامج الحفظ والتفسير تدريجيا عرض المواد. ويظل المتحف ضروريا لقراءة تاريخية كاملة لثيسدروس.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxIp0C2D4C-CdVd_ct9j85k9D0ZmzL8ezAA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCHBPEhfTN_MsJ1vrm6LCBhtbiHSmeL57Kw&s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/45/8d/d1/musee-d-el-jem.jpg?w=700&h=400&s=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGfJ74LF1mB_io6RYrBXwXPEHF9A8Nlt2jQ&s"
+    ],
+    "lat": 35.2954,
+    "lng": 10.7097,
+    "category": "متحف"
+  },
+  {
+    "id": "kerk_museum",
+    "name": "متحف موقع كركوان",
+    "city": "نابل",
+    "description": "يقدم المتحف القريب من كركوان مقدمة مركزة للثقافة المادية البونية المكتشفة في الموقع الاثري. ورغم صغر حجمه، فإن مجموعته لا تقدر بثمن لفهم الحياة المنزلية والممارسات الحرفية والتقاليد الجنائزية في سياق قرطاجي. يشكل المتحف جسرا بين مناطق التنقيب والتفسير التاريخي. بالنسبة للزائر يحول الاطلال الى حكايات انسانية.",
+    "history": "انشئ المتحف لحفظ القطع المستخرجة من الحفريات، ويدعم تفسير احد المواقع البونية الحضرية النادرة والمحافظة. توفر مقتنياته ادلة على العمارة والاقتصاد ونظم المعتقدات قبل الهيمنة الرومانية. تواصل البحوث تحسين التسلسل الزمني ونسب العديد من القطع ثقافيا. يلعب المتحف دورا مهما في اشراك الجمهور بالتراث التونسي قبل الرومان.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mus%C3%A9e_de_Kerkouane_01.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kerkouane_Plan_du_site_1.jpg/500px-Kerkouane_Plan_du_site_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kerkouane_sarcophage_1.jpg/500px-Kerkouane_sarcophage_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Musee_Nationale_de_Kerkouene%286%29.jpg/500px-Musee_Nationale_de_Kerkouene%286%29.jpg"
+    ],
+    "lat": 36.9432,
+    "lng": 11.0968,
+    "category": "متحف"
+  },
+  {
+    "id": "chemtou_museum",
+    "name": "المتحف الاثري بشمتو",
+    "city": "جندوبة",
+    "description": "يفسر متحف شمتو منظر المقالع عبر قطع ونماذج وشروحات لتقنيات الاستخراج القديمة. يساعد الزوار على فهم كيف تحولت الصخور الخام الى سلعة امبراطورية فاخرة نقلت عبر المتوسط. تربط المعروضات بين الجيولوجيا والعمل والاقتصاد السياسي بشكل ملموس. يثري المتحف واحدا من اكثر المواقع الاثرية تميزا في تونس.",
+    "history": "تطور المتحف بالتوازي مع الابحاث الاثرية والجيولوجية في سيميثوس، وصمم لتأطير بقايا المقالع والمستوطنات المرتبطة بها. يدمج نتائج العمل الميداني حول الادوات والنقوش وانظمة النقل. ومع الوقت اصبح موقعا تعليميا مهما للاثار الصناعية في العصور القديمة. يرسخ المتحف اهمية شمتو في التاريخ التونسي والمتوسطي.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkaoTFON6C1RujLCksSnxt4tKpArU_3hlrDCsdJA8Wchtod_hXlxVGxp2Nvwh87AlWOOppmSRIbOMcynCC34y_0uZbtu0PLH54L9REATtGNwvGDOwEiOTY7HVUvmKW4wSx5Kj=s1360-w1360-h1020-rw",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Funerary_steles_in_Archaeological_Museum_of_Chemtou.jpg/500px-Funerary_steles_in_Archaeological_Museum_of_Chemtou.jpg",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6jaQcskI0TEJGxWc7qh2kRm-nnx2hQZzPqVkNKYkX9A7CRY6Z4J2FUEKviu8iRtE70xfJ7za9ePmlidsQh4Kh5Q6UZo0hq5tEv8PjXF8P8SPUUco1I8Y52wHwQdQG7Ra63CsNnA=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjZeQBnZj2QtbdGIzcBZt1OOA4nM84APC-3M4UzNK-hEAbH-b9PGDWVQYPgILLvPC1d4hVXz-aEybW5Te-Tyy7SeFwlwS3etBFUoNj_wmIE24rTXpse7XFLf3GpAAHBwxqdIiP=s1360-w1360-h1020-rw"
+    ],
+    "lat": 36.4792,
+    "lng": 8.5728,
+    "category": "متحف"
+  },
+  {
+    "id": "mahdia_museum",
+    "name": "متحف المهدية",
+    "city": "المهدية",
+    "description": "يعرض متحف المهدية موادا اثرية واثنوغرافية تعكس تاريخ المدينة البحري والحضري. من البقايا الكلاسيكية الى القطع الاسلامية، تكشف المجموعة دور المهدية كمركز ساحلي للتجارة والثقافة. يقدم المتحف سياقا مهما لاستكشاف المدينة العتيقة ومعالم الساحل. وهو محطة صغيرة لكنها ذات قيمة لفهم ساحل تونس الأوسط.",
+    "history": "نتجت اهمية المهدية التاريخية—خصوصا في الفترات الفاطمية وما بعدها—عن تراث محلي غني حفظته مبادرات متحفية. توسعت المجموعات عبر حفريات اقليمية ومشاريع حفظ تاريخي. تبرز اعمال التنسيق الروابط بين هوية الميناء والتبادلات المتوسطية. يسهم المتحف في صون تراث المهدية متعدد الفترات وتواصله.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcjh3zKxycoWmNcmLboObTV4ddiP1rpSEzQ&s",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Museu_de_Mahdia.jpg/960px-Museu_de_Mahdia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Islamic_Section_Mahdia_Museum_12082020_009.jpg/500px-Islamic_Section_Mahdia_Museum_12082020_009.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Museu_de_Mahdia_-_teler_manual.jpg/250px-Museu_de_Mahdia_-_teler_manual.jpg"
+    ],
+    "lat": 35.5047,
+    "lng": 11.0622,
+    "category": "متحف"
+  },
+  {
+    "id": "nabeul_museum",
+    "name": "المتحف الاثري بنابل",
+    "city": "نابل",
+    "description": "يعرض هذا المتحف مكتشفات اثرية من الوطن القبلي، بما في ذلك فسيفساء وسيراميك وقطع مرتبطة بالسياقات الرومانية والبونية في المنطقة. يوفر منظورا محليا قيما يكمل المؤسسات الوطنية الكبرى. تؤكد المعروضات على الغنى التاريخي لمنطقة يعرفها كثيرون اليوم بصناعاتها التقليدية وشواطئها. يدعو المتحف الزائر لاعادة اكتشاف نابل عبر الزمن العميق.",
+    "history": "تكون المتحف عبر جهود جمع محلية واقليمية للاثار، ويحفظ موادا من مواقع شمال شرق تونس. تكشف مجموعاته عن استمرارية الاستيطان والانتاج الفني عبر عصور متعددة. تعزز عمليات الفهرسة والتفسير المستمرة دوره التعليمي. كمتحف جهوي، يسهم في توسيع الوصول الى المعرفة التراثية خارج المركز.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Entr%C3%A9e_mus%C3%A9e_de_Nabeul.JPG/960px-Entr%C3%A9e_mus%C3%A9e_de_Nabeul.JPG",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Amphore_1_Neapolis.JPG/500px-Amphore_1_Neapolis.JPG",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhaoDgm3wPSoEi2tB0M6hrCSj-Zc-cgYiyg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-oM8SndabVFcmKklAzuI7CqVZ1MbA3liwg&s"
+    ],
+    "lat": 36.4561,
+    "lng": 10.7376,
+    "category": "متحف"
+  },
+  {
+    "id": "kerkennah_museum",
+    "name": "متحف تراث قرقنة",
+    "city": "صفاقس",
+    "description": "يحفظ متحف تراث جزر قرقنة الذاكرة المحلية المرتبطة بتقاليد الصيد والحياة الجزيرة والثقافة المادية المحلية. ورغم اختلافه عن المتاحف الاثرية الكلاسيكية، فهو ضروري لفهم التراث غير المادي والبحري في تونس. توثق المعروضات الادوات والاشياء المنزلية والممارسات الاجتماعية التي شكلتها بيئة الجزر. يوسع المتحف مفهوم التراث الى ما يتجاوز الاطلال المهيبة.",
+    "history": "انشئ لحماية التقاليد المحلية تحت ضغط التحديث والتغير الاقتصادي، ويعكس عملا مجتمعيا لحفظ الذاكرة. تحافظ المجموعات والسرديات على معارف الصيد الحرفي والملاحة والتنظيم الاجتماعي. تطوره يشير الى اعتراف متزايد بالتراث الاثنوغرافي في السياسات الثقافية التونسية. يسهم المتحف في توثيق تاريخ حي غالبا ما يغيب عن السرديات الوطنية الكبرى.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeNBso1uXLqdnTxkXuP3p_I3Dr1WLFmkV2g&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr6n1nqWG_WZIWb9kz482w9dyKpdXmaL-HA&s",
+      "https://www.sonotrak.tn/upload/images/culture.jpg",
+      "https://tunisie.co/uploads/images/content/abssia-290711-1.jpg"
+    ],
+    "lat": 34.755,
+    "lng": 11.245,
+    "category": "متحف"
+  },
+  {
+    "id": "raqqada_museum",
+    "name": "متحف الفن الاسلامي بالرقادة",
+    "city": "القيروان",
+    "description": "يقع متحف الرقادة للفن الاسلامي قرب القيروان ويضم مخطوطات وخزفا وشواهد معمارية وفنون زخرفية ذات قيمة استثنائية. تكشف مجموعاته عن رقي افريقية في العصور الوسطى والعالم الاسلامي عموما. يتيح الهدوء في المتحف تجربة متعمقة مع القطع وسياقها التاريخي. وهو مكان لا غنى عنه لفهم مساهمات تونس الفنية والفكرية في الحضارة الاسلامية.",
+    "history": "انشئ المتحف لحفظ وعرض مقتنيات من القيروان ومواقع اسلامية اخرى، بما في ذلك مواد مخطوطة نادرة. يبرز اطاره التنسيقي تطورات السلالات والمؤسسات الدينية والتبادلات الفنية بين المناطق. ومع مرور الوقت اصبح احد اهم مراكز تفسير التراث الاسلامي في تونس. يواصل الرقادة دعم البحث والتعليم العام حول شمال افريقيا في العصور الوسطى.",
+    "imageUrl": "",
+    "images": [
+      "",
+      "",
+      ""
+    ],
+    "lat": 35.629,
+    "lng": 10.098,
+    "category": "متحف"
+  },
+  {
+    "id": "dar_hussein",
+    "name": "دار حسين",
+    "city": "تونس",
+    "description": "تمثل دار حسين في المدينة العتيقة بتونس عمارة البيوت الارستقراطية والتراث الاداري. تكشف الافنية والتفاصيل المنحوتة وتسلسل الفضاءات عن رموز المكانة في الحياة المنزلية للنخب. كفضاء تراثي يساعد الموقع على تفسير النسيج المعماري للمدينة القديمة خارج المعالم الدينية. ويبرز كيف جسدت العمارة المكانة والضيافة والثقافة الحضرية.",
+    "history": "كانت في الاصل اقامة بارزة، ثم اندمجت في الاستخدامات التراثية والمؤسساتية الحديثة، ما يعكس تغير العلاقة بين النسيج التاريخي والبنى الدولة. تؤكد صيانتها اهمية العمارة المنزلية لفهم تونس العثمانية والحسينية. هدفت جهود الحفظ الى صون الاصالة البنيوية مع تمكين الوظائف العامة والادارية. لا تزال دار حسين مرجعا مهما لدراسة عمارة المدينة العتيقة.",
+    "imageUrl": "https://carthagemagazine.com/wp-content/uploads/2021/03/Raqqada-National-Museum-of-Islamic-Art-in-Kairouan.jpg",
+    "images": [
+      "https://images.museumwnf.org/full/museums/tn/1/1.jpg",
+      "https://www.patrimoinedetunisie.com.tn/fileadmin/user_upload/___________________b2.jpg",
+      "https://www.patrimoinedetunisie.com.tn/fileadmin/user_upload/____________________13.jpg"
+    ],
+    "lat": 36.7979,
+    "lng": 10.1705,
+    "category": "متحف"
+  },
+  {
+    "id": "dar_lasram",
+    "name": "دار لصرم",
+    "city": "تونس",
+    "description": "تعد دار لصرم من اروع قصور المدينة العتيقة، مشهورة بديكوراتها الانيقة واسقفها المرسومة وتنسيقها حول الفناء. تجسد رقي العمارة الارستقراطية الحضرية التونسية. الى جانب الجمال، تعكس الدار التاريخ الاجتماعي وذاكرة العائلة وحركات حفظ التراث في المدينة القديمة. انها جوهرة معمارية تربط الحرف بالهوية المدنية.",
+    "history": "بنيت في بداية القرن التاسع عشر لأسرة بارزة، ثم ارتبطت بمؤسسات تراثية ومبادرات حفظ. ساعدت صيانتها على توثيق تقنيات البناء والتقاليد الزخرفية وتنظيم الفضاء المنزلي في تونس. لعبت دار لصرم دورا رمزيا في جهود حماية نسيج المدينة العتيقة. وما زالت تمثل مكانة تراثية ورعاية ثقافية.",
+    "imageUrl": "https://www.impressivetunisia.com/wp-content/uploads/2022/02/PRESENTATION-DAR-LASRAM-Sidi-Bou-Said-9-1.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Salle_Dar_Lasram.jpg/250px-Salle_Dar_Lasram.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1ZHAciFhXEFzVD2NX8EJ98BVCKgWpALtXQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-_CyHHmKtniimyvfG4IBfl16qYotN4pt_g&s"
+    ],
+    "lat": 36.801,
+    "lng": 10.1692,
+    "category": "متحف"
+  },
+  {
+    "id": "mausoleum_habib_bourguiba",
+    "name": "ضريح الحبيب بورقيبة",
+    "city": "المنستير",
+    "description": "هذا الضريح المهيب بقبابه الذهبية وتماثله المتوازن يعد من اكثر معالم تونس الحديثة تميزا. يجمع بين عمارة تذكارية ورمزية وطنية، مقدما مدخلا لفهم تشكل الهوية بعد الاستقلال. مجمعه لافت بصريا ومرتبط بسرديات الدولة والحداثة. يقف عند تقاطع الذاكرة والسياسة والتمثيل المعماري.",
+    "history": "شيد في اواخر القرن العشرين كمكان دفن اول رئيس لتونس، وصمم ليعبر عن الكرامة والاستمرارية والفخر الوطني. موقعه في المنستير يربط السيرة الشخصية بالمشهد التراثي الاقليمي. مع الوقت اصبح موقعا تذكاريا ووجهة للمهتمين بالتاريخ الحديث. يسهم المعلم في فهم كيف تصوغ الدول الذاكرة السياسية عبر العمارة.",
+    "imageUrl": "https://villa-romana-monastir.com/wp-content/uploads/2018/09/mausole-de-bourguiba-monastir-1.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grave_of_Bourguiba.jpg/250px-Grave_of_Bourguiba.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgeQMWoqG1PRgZF1akTV8FZzSb1JukAckmg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKmD-OuLwPUHtN09G5oXTdFGJgUrJpbHnQw&s"
+    ],
+    "lat": 35.777,
+    "lng": 10.8355,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "ksar_hallouf",
+    "name": "قصر حلوف",
+    "city": "مدنين",
+    "description": "قصر حلوف مثال بارز لعمارة المخازن المحصنة في جنوب تونس، في مشهد يعكس قرونا من التكيف مع الندرة والتنقل. تكشف قوامه الترابية ووحدات التخزين المتجمعة عن استراتيجيات مجتمعية للمرونة. يوفر الموقع تجربة اكثر هدوءا واقل تجارية لتراث القصور. وهو مهم خاصة للمهتمين بالعمارة الامازيغية.",
+    "history": "تطور ضمن شبكة اوسع من القصور في الجنوب الشرقي، وعمل كنظام تخزين جماعي وملجأ. يعكس تصميمه التعاون الاقتصادي والتنظيم الاجتماعي للمجتمعات المحلية. رغم تراجع الاستخدام العملي لكثير من القصور، يبقى حلوف شاهدا رئيسيا على انماط العيش الاقليمية. زاد الاهتمام بالحفظ مع تنامي الوعي بالتراث الامازيغي.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ksar_Hallouf.JPG",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ksar_Hallouf_%28panoramique%29.jpg/250px-Ksar_Hallouf_%28panoramique%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Ksar_hallouf01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ksar_el-Hallouf_detail_2.jpg/1280px-Ksar_el-Hallouf_detail_2.jpg"
+    ],
+    "lat": 33.18,
+    "lng": 10.12,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "takrouna",
+    "name": "قرية تكروانة",
+    "city": "سوسة",
+    "description": "تكروانة قرية على قمة تلة تطل على سهول واسعة وحقول زيتون، معروفة بعمارتها التقليدية ومناظرها الدرامية. يوفر الاستيطان احساسا نادرا بالاستمرارية بين البناء والجيولوجيا والحياة الريفية. يكشف التجول في ممراتها عن فراغات محلية صاغها المناخ والحرف والعادات الاجتماعية. وهي من اكثر المحطات الثقافية ذات الجو الخاص في الساحل.",
+    "history": "ترجع جذور تكروانة الى تاريخ عميق، وتطورت كمستوطنة استراتيجية وجماعية على مرتفع. تعكس عمارتها التكيف مع المواد المحلية والاعتبارات الدفاعية. كما عرفت بدورها في التاريخ العسكري الحديث خلال حملات الحرب العالمية الثانية. تحفظ اليوم كوجهة تراثية تمثل طبقات الذاكرة القديمة والحديثة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EB-zqrfyPKbmiVkylVjySIX01xuxVvawA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNLZqpJQkCcSmUy8xElVaLjm_S25QTd7bjw&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Takrouna_-_004.jpg/1280px-Takrouna_-_004.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Takrouna_origine_Berb%C3%A8re.jpg/1280px-Takrouna_origine_Berb%C3%A8re.jpg"
+    ],
+    "lat": 35.6405,
+    "lng": 10.3306,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "hammamet_kasbah",
+    "name": "قصبة الحمامات",
+    "city": "الحمامات",
+    "description": "تقف قصبة الحمامات فوق المدينة العتيقة والواجهة البحرية، جامعة بين عمارة دفاعية ومناظر ساحلية جميلة. تحيط اسوارها وابراجها بنواة تاريخية مدمجة حيث تتقاطع الحياة اليومية مع السياحة. يقدم المعلم مدخلا مختصرا لكنه حي للماضي ما قبل الحديث للمدينة. وهو ركيزة رئيسية في المشهد الثقافي للحمامات خارج هويتها السياحية الحديثة.",
+    "history": "بنيت القصبة وعدلت عبر فترات القرون الوسطى وبدايات العصر الحديث، وكانت تحمي المدينة وتراقب المداخل البحرية. تغير دورها الاستراتيجي مع تبدل القوى والتهديدات الساحلية. ومع توسع المدينة لاحقا ظلت القلعة مركزا رمزيا ومكانيا. تحفظها جهود الصيانة كعلامة تاريخية ضمن بيئة سريعة التحديث.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXLLDhykeMNlMC3cPmWhaBf_GF64V8Kv-4A&s",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3f/f2/65/view-from-kasbah-of-hammamet.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/fc/3c/cd/caption.jpg?w=1200&h=-1&s=1s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/5f/48/af/caption.jpg?w=1400&h=800&s=1"
+    ],
+    "lat": 36.4,
+    "lng": 10.6167,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "tabarka_fort",
+    "name": "الحصن الجنوي بتبرقة",
+    "city": "تبرقة",
+    "description": "يطل الحصن الجنوي بتبرقة على البحر والساحل الصخري، ويعكس الماضي البحري المتعدد الثقافات للمدينة. يبرز شكله مقابل المتوسط اهمية هذا الميناء الشمالي. يجمع الموقع بين التراث العسكري والمشهد الطبيعي الاستثنائي. ويقدم منظوراً مقنعا على صلات تونس بالقوى المتوسطية الاوسع.",
+    "history": "تاثرت تحصينات تبرقة بفترات من الحكم المحلي والتأثيرات الخارجية، بما في ذلك الحضور الجنوي المرتبط بالتجارة والموارد. سيطرت القلعة على الحركة البحرية ورمزت للسلطة على عقدة ساحلية ذات قيمة. ورغم تغيرها جزئيا بفعل الزمن، تبقى معلما تاريخيا قويا. ويسهم الموقع في فهم التنافس والتبادل عبر المتوسط في العصر الحديث المبكر.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tabarka_tunisie_3.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fort_de_Tabarka%2C_26_d%C3%A9cembre_2014_%2803%29.jpg/500px-Fort_de_Tabarka%2C_26_d%C3%A9cembre_2014_%2803%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tabarka%2C_d%C3%A9cembre_2014_%2828%29.jpg/1280px-Tabarka%2C_d%C3%A9cembre_2014_%2828%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/Port_tabarka.jpgs"
+    ],
+    "lat": 36.9544,
+    "lng": 8.758,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "gafsa_roman_pools",
+    "name": "البرك الرومانية بقفصة",
+    "city": "قفصة",
+    "description": "تعد برك قفصة التاريخية المرتبطة بالانظمة المائية القديمة تذكيرا بكيف نظمت مدن الواحات حياتها حول موارد الماء. وجودها في منطقة جافة يبرز اهمية ادارة المياه تقنيا واجتماعيا. يربط الموقع بين التاريخ البيئي واستمرارية المدينة. وهو مرجع اساسي لفهم تراث الداخل الجنوبي.",
+    "history": "لقفصة جذور تاريخية عميقة تمتد عبر الفترتين الرومانية والاسلامية، وكانت البنية المائية مركزية في استدامة الاستيطان. خدمت البرك والعناصر المرتبطة بها وظائف عملية وجماعية ورمزية. ومع الزمن غيرت الحداثة انماط الاستخدام مع الحفاظ على ذاكرة الحياة الحضرية المرتبطة بالماء. ولا يزال الموقع مهما في سرديات التكيف والمرونة في داخل تونس.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Roman_Pool_in_Gafsa.jpg/500px-Roman_Pool_in_Gafsa.jpg",
+    "images": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErosJx_ThC-1x3KG9qcjdUL9h_yoVtUmEFOrZnQ8m-ZdplQXZq5gX5Dq1mmArGAFCybuKkm42eOnrkPv73WvNRiJdWi8zRpJOhbBkspO75zOJAW6YLtZW-5Y4cKCSXCWXxu8wn=w270-h312-n-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_GHMwFmHHEPNLZf3981dimQC_6XWWf5AKIxNDXZmX6Cd3PiXCbtG3VgjRODOFr9TSujYf3cNKbj8gM7CE4NMO_nk-Jddp7s72JHTXpsw7nPeK0PxPHraUyKNQO3kestSaJR7e=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzTj4uauRvHM4NqSGYnfLwv22FeiBGo1XX1ofdtyGMmNdVRLBL8jxL3N_mzbt0rVyPg7DAIzB25a7e4zPDepJNNOrFzXqbd7MKdV6c5ofFchobBjTcWTCGb2JddhgCiafvSuvi=s1360-w1360-h1020-rw"
+    ],
+    "lat": 34.425,
+    "lng": 8.7842,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "tozeur_old_town",
+    "name": "المدينة القديمة بتوزر",
+    "city": "توزر",
+    "description": "تشتهر المدينة القديمة بتوزر بواجهاتها الطوبية الهندسية ودرجاتها الترابية الدافئة وجمالياتها الصحراوية الراقية. تظهر الشوارع والبيوت حرفية محلية عالية تتكيف مع مناخ الواحة وتنظيمها الاجتماعي. يقدم الحي واحدة من اكثر الهويات المعمارية تميزا في تونس. وهو حي حي ومقصد ثقافي كبير.",
+    "history": "تطورت توزر كمركز واحة مرتبط بقوافل التجارة وزراعة التمور. تطورت عمارتها عبر معارف محلية في ضبط المناخ واستخدام المواد والتعبير الزخرفي. رغم التوسع الحديث، حافظت اجزاء من الحي القديم على طابع تاريخي متماسك. تعترف مبادرات الحفظ والسياحة بالحي كنموذج للتراث الحضري الصحراوي.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ouled_El_Hadef_%E2%80%94_Medina_of_Tozeur_10.jpg/960px-Ouled_El_Hadef_%E2%80%94_Medina_of_Tozeur_10.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sidi_Ben_Ghalleb_Mosque_01.jpg/250px-Sidi_Ben_Ghalleb_Mosque_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sidi_Abderrahmane_Mosque_03.jpg/960px-Sidi_Abderrahmane_Mosque_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sidi_Lsiq1.jpg/1280px-Sidi_Lsiq1.jpg"
+    ],
+    "lat": 33.918,
+    "lng": 8.1335,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "nefta_oasis",
+    "name": "واحة نفطة (سلة النخيل)",
+    "city": "توزر",
+    "description": "تشكل واحة نفطة المعروفة بسلة النخيل منظرا ثقافيا وبيئيا لافتا حيث تتشابك الزراعة والماء والاستيطان. تخلق بساتين النخيل والمسارات ونقاط المشاهدة بيئة صحراوية شاعرية تشكلت عبر اجيال من الخبرة. يعكس الموقع حضارة الواحات في تونس خارج العمارة الحجرية المهيبة. وهو مكان لا تنفصل فيه الممارسات غير المادية عن تراث المشهد الطبيعي.",
+    "history": "كانت نفطة مركزا دينيا وقافليا مهما في منطقة الجريد، مدعومة بأنظمة توزيع مياه معقدة وزراعة الواحات. طورت المجتمعات التاريخية نظمها الاجتماعية المرتبطة بزراعة النخيل ورعاية البيئة. غيرت الضغوط الحديثة التوازنات التقليدية، ما زاد اهمية التوثيق والادارة المستدامة. تظل الواحة مركزية لفهم الايكولوجيا التاريخية لجنوب تونس.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Corbeille_de_Nefta_-_Tozeur%2C_Tunisia_02.jpg/500px-Corbeille_de_Nefta_-_Tozeur%2C_Tunisia_02.jpg",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREW6vFWgBuWlRxFLz6HQCH4YCrub2qdi383Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88baAxBZ4kbmatvZyiHu7KHQyDF4w4angXw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpuqYPWlydeYvQybq3WPn5GRyWLV-uqEK3g&s"
+    ],
+    "lat": 33.875,
+    "lng": 7.877,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "sfax_medina",
+    "name": "مدينة صفاقس العتيقة",
+    "city": "صفاقس",
+    "description": "تشتهر مدينة صفاقس العتيقة بهندستها الحضرية الواضحة واسوارها القوية وحياتها الحرفية والتجارية النشطة. مقارنة بمدن عتيقة اخرى، تحتفظ بتوازن فريد بين النسيج التاريخي والوظيفة الاقتصادية المعاصرة. تشكل ابوابها واسواقها ومعالمها الدينية مجموعة تراثية متماسكة. وهي مثال قوي على الاستمرارية في التقاليد الحضرية الساحلية التونسية.",
+    "history": "تأسست في الفترة الاسلامية المبكرة وعُززت عبر القرون، وتطورت صفاقس كمركز للتجارة والانتاج والتبادل البحري. يعكس تخطيط المدينة منطق الدفاع وتنظيم النشاط التجاري. غير التوسع الحضري الحديث المناطق المحيطة مع الحفاظ على قلب المدينة القديم. ولا يزال الموقع مهما لابحاث العمران الاسلامي والتراث الحي.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAYw-YpsAKhRoW1Rybyeft6CbfGRgyiOUBw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTk1ZVp2S6zIm9BwMTdxkpNKCIjK1qQQuhwg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcH5Wz8RwIhOgsDEXf4mlR4IiJhZYUqZZwQ&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mosqu%C3%A9e_Ajouzine.jpg/250px-Mosqu%C3%A9e_Ajouzine.jpg"
+    ],
+    "lat": 34.739,
+    "lng": 10.76,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "monastir_medina",
+    "name": "مدينة المنستير العتيقة",
+    "city": "المنستير",
+    "description": "يقدم قلب المنستير التاريخي، المحاط بالرباط والمعالم الساحلية، تجربة مركزة وغنية لتراث تونس البحري المتعدد الطبقات. يخلق تفاعل التحصين والعمارة الدينية والحياة الحضرية هوية مميزة للمنطقة. يستطيع الزائر تتبع تطور المدينة تاريخيا مع الاستمتاع بأجوائها البحرية. وهي جسر بين التاريخ الوسيط والذاكرة المدنية الحديثة.",
+    "history": "تطورت المنستير حول الدفاع الساحلي والمؤسسات الدينية منذ القرون الاسلامية الاولى. ومع الزمن توسعت المدينة خارج النواة التاريخية مع الحفاظ على المعالم الرئيسية. اضافت مشاريع بناء الدولة في القرن العشرين طبقات رمزية جديدة عبر العمارة التذكارية. لذا تعكس المنطقة جذورا عميقة واعادة تفسير حديثة.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJwXRnoipa0c41jEQsoi4T-tfWypkJirO3wQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWyALl5AVdrreZTPlX1_1b1EkXtHCqBmIkQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4PRKFJil519akZKSX9aEeHCQuAy5VXEGvQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUC4Wu9yfWpernWn_ocYABcF-2YlCBeIsLA&s"
+    ],
+    "lat": 35.7767,
+    "lng": 10.8336,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "djerba_hood",
+    "name": "الرياض (حي دجربة هود الثقافي)",
+    "city": "جربة",
+    "description": "يقدم حي الرياض، المعروف عالميا بتدخلات فن الشارع، حوارا تراثيا معاصرا بين عمارة الجزيرة التقليدية والتعبير البصري الحديث. تتفاعل الجداريات مع الجدران البيضاء والازقة والباحات لتشكيل مسار ثقافي مفتوح. تظهر التجربة كيف يمكن للتراث الحي ان يتطور دون فقدان الهوية. وهو مثال مقنع على اعادة تفسير الذاكرة الثقافية في الفضاء التونسي.",
+    "history": "كان حي الرياض جزءا من المشهد الاجتماعي والديني متعدد الطبقات في جربة. في القرن الحادي والعشرين ادخلت مشاريع فن الشارع الدولية سرديات فنية جديدة وجذبت الانتباه الى العمارة المحلية وحياة المجتمع. اثار هذا التحول نقاشات حول الحفظ والاصالة والابتكار. يمثل الحي اليوم حالة دراسية في تنشيط التراث ضمن بيئات تاريخية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQbgDKhCgjlwHnETsGb2ap4b3tnPtcwyE-w&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBx-KLjX6lZtH19yIv1Vfz7FvbesRx6PbTkQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUP7j9-fO3cj13QEgJwo0Wb7UTXwYZkW-6vA&s",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a7/e3/ee/caption.jpg?w=1200&h=-1&s=1s"
+    ],
+    "lat": 33.8088,
+    "lng": 10.8571,
+    "category": "موقع تاريخي"
+  },
+  {
+    "id": "douz_sahara_gate",
+    "name": "دوز (بوابة الصحراء)",
+    "city": "دوز",
+    "description": "تُعرف دوز ببوابة الصحراء حيث تشكل تقاليد الواحات ومسالك الصحراء والمهرجانات الثقافية هوية تراثية فريدة. يعكس مركزها القديم ومحيطها تاريخ الحركة والتجارة والتكيف. تقدم المدينة فهما لجغرافيا الجنوب الثقافية بعيدا عن الاثار المهيبة. وهي مهمة خصوصا لفهم التراث الصحراوي غير المادي.",
+    "history": "ارتبطت دوز تاريخيا بحركة القوافل واقتصادات الواحات، وتطورت كمستوطنة استراتيجية بين السهوب والصحراء. شكلت الممارسات الاجتماعية والاوقات الموسمية وشبكات التبادل الاقليمية تطورها. في العصر الحديث اعادت المهرجانات والسياحة صياغة هوية دوز مع الحفاظ على روابطها بالماضي. وتظل المدينة عقدة رئيسية في سرديات الصحراء التونسية.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3guJ_KuysFvyjac4RSOeRWFVJM7vfqbo88Q&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TxQ6TEb7Y5eFMRiUyEP5vwj3J0_AOIT1Kw&s",
+      "https://ims.easyvoyage.info/large_shutterstock_131151848_7c7b1d018f/large_shutterstock_131151848_7c7b1d018f.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYf8UJx-tapKbrfogaLIyXECGefJ8cD8fHIQ&s"
+    ],
+    "lat": 33.4663,
+    "lng": 9.0203,
+    "category": "موقع تاريخي"
+  }
+]

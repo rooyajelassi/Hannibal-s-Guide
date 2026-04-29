@@ -17,10 +17,14 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.viewinterop.AndroidView
+import androidx.hilt.navigation.compose.hiltViewModel
+import com.example.hannibalsguide.presentation.localization.UiStrings
+import com.example.hannibalsguide.presentation.settings.LanguageViewModel
 import org.osmdroid.config.Configuration
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory
 import org.osmdroid.util.GeoPoint
@@ -28,6 +32,7 @@ import org.osmdroid.views.MapView
 import org.osmdroid.views.overlay.Marker
 import androidx.compose.material3.Icon
 import com.example.hannibalsguide.presentation.components.TunisianPatternBackground
+import androidx.compose.runtime.collectAsState
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -37,7 +42,11 @@ fun MapScreen(
     onBack: () -> Unit
 ) {
     val context = LocalContext.current
-    val landmark = viewModel.getLandmarkLocation(landmarkId)
+    val landmarks by viewModel.landmarks.collectAsState()
+    val landmark = landmarks.find { it.id == landmarkId }
+    val languageViewModel: LanguageViewModel = hiltViewModel()
+    val language by languageViewModel.language.collectAsState()
+    val strings = UiStrings(language)
 
     LaunchedEffect(Unit) {
         Configuration.getInstance().load(
@@ -52,7 +61,7 @@ fun MapScreen(
             containerColor = MaterialTheme.colorScheme.background,
             topBar = {
                 CenterAlignedTopAppBar(
-                    title = { Text("Map") },
+                    title = { Text(strings.mapTitle) },
                     navigationIcon = {
                         FilledIconButton(
                             onClick = onBack,
@@ -60,7 +69,7 @@ fun MapScreen(
                         ) {
                             Icon(
                                 imageVector = Icons.AutoMirrored.Rounded.ArrowBack,
-                                contentDescription = "Back"
+                                contentDescription = strings.backContentDescription
                             )
                         }
                     }
@@ -77,7 +86,7 @@ fun MapScreen(
                     contentAlignment = Alignment.Center
                 ) {
                     Text(
-                        text = "Location not available",
+                        text = strings.locationNotAvailable,
                         style = MaterialTheme.typography.titleMedium
                     )
                 }
@@ -98,7 +107,7 @@ fun MapScreen(
                     ) {
                         Icon(
                             imageVector = Icons.AutoMirrored.Rounded.ArrowBack,
-                            contentDescription = "Back"
+                            contentDescription = strings.backContentDescription
                         )
                     }
                 }

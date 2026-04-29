@@ -2,6 +2,7 @@ package com.example.hannibalsguide.data.local
 
 import android.content.Context
 import com.example.hannibalsguide.data.local.dto.LandmarkDto
+import com.example.hannibalsguide.domain.model.AppLanguage
 import com.example.hannibalsguide.domain.model.Landmark
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
@@ -13,9 +14,14 @@ import javax.inject.Singleton
 class LandmarkLocalDataSource @Inject constructor(
     @ApplicationContext private val context: Context
 ) {
-    fun loadLandmarks(): List<Landmark> {
+    fun loadLandmarks(language: AppLanguage): List<Landmark> {
         return try {
-            val json = context.assets.open("landmarks_tn.json")
+            val fileName = when (language) {
+                AppLanguage.ENGLISH -> "landmarks_tn.json"
+                AppLanguage.FRENCH -> "landmarks_tn_fr.json"
+                AppLanguage.ARABIC -> "landmarks_tn_ar.json"
+            }
+            val json = context.assets.open(fileName)
                 .bufferedReader()
                 .use { it.readText() }
 

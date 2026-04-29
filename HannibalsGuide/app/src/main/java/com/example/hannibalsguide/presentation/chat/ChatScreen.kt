@@ -40,13 +40,16 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.collectAsState
+import androidx.hilt.navigation.compose.hiltViewModel
+import com.example.hannibalsguide.presentation.localization.UiStrings
+import com.example.hannibalsguide.presentation.settings.LanguageViewModel
+import com.example.hannibalsguide.domain.model.ChatMessage
+import com.example.hannibalsguide.ui.theme.HannibalsGuideTheme
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.hannibalsguide.domain.model.ChatMessage
-import com.example.hannibalsguide.ui.theme.HannibalsGuideTheme
 
 @Composable
 fun ChatScreen(
@@ -56,12 +59,16 @@ fun ChatScreen(
 ) {
     val messages by viewModel.messages.collectAsState()
     var input by remember { mutableStateOf("") }
+    val languageViewModel: LanguageViewModel = hiltViewModel()
+    val language by languageViewModel.language.collectAsState()
+    val strings = UiStrings(language)
 
     LaunchedEffect(landmarkId) { viewModel.init(landmarkId) }
 
     ChatScreenContent(
         messages = messages,
         input = input,
+        strings = strings,
         onInputChange = { input = it },
         onSend = {
             if (input.isNotBlank()) {
@@ -78,6 +85,7 @@ fun ChatScreen(
 fun ChatScreenContent(
     messages: List<ChatMessage>,
     input: String,
+    strings: UiStrings,
     onInputChange: (String) -> Unit,
     onSend: () -> Unit,
     onBack: () -> Unit
@@ -94,7 +102,7 @@ fun ChatScreenContent(
             CenterAlignedTopAppBar(
                 title = {
                     Text(
-                        text = "Chat with Tarek",
+                        text = strings.chatTitle,
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.SemiBold
                     )
@@ -106,7 +114,7 @@ fun ChatScreenContent(
                     ) {
                         Icon(
                             imageVector = Icons.AutoMirrored.Rounded.ArrowBack,
-                            contentDescription = "Back"
+                            contentDescription = strings.backContentDescription
                         )
                     }
                 },
@@ -130,7 +138,7 @@ fun ChatScreenContent(
                 verticalArrangement = Arrangement.spacedBy(10.dp)
             ) {
                 items(messages) { msg ->
-                    MessageBubble(msg = msg)
+                    MessageBubble(msg = msg, strings = strings)
                 }
             }
 
@@ -149,7 +157,7 @@ fun ChatScreenContent(
                     value = input,
                     onValueChange = onInputChange,
                     modifier = Modifier.weight(1f),
-                    placeholder = { Text("Ask about this place...") },
+                    placeholder = { Text(strings.chatPlaceholder) },
                     shape = RoundedCornerShape(14.dp),
                     maxLines = 4
                 )
@@ -161,7 +169,7 @@ fun ChatScreenContent(
                 ) {
                     Icon(
                         imageVector = Icons.Rounded.Send,
-                        contentDescription = "Send"
+                        contentDescription = strings.chatTitle
                     )
                 }
             }
@@ -170,7 +178,7 @@ fun ChatScreenContent(
 }
 
 @Composable
-private fun MessageBubble(msg: ChatMessage) {
+private fun MessageBubble(msg: ChatMessage, strings: UiStrings) {
     val isUser = msg.isUser
 
     Row(
@@ -196,7 +204,7 @@ private fun MessageBubble(msg: ChatMessage) {
         ) {
             Column(modifier = Modifier.padding(horizontal = 12.dp, vertical = 10.dp)) {
                 Text(
-                    text = if (isUser) "You" else "Tarek",
+                    text = if (isUser) strings.youLabel else strings.tarekLabel,
                     style = MaterialTheme.typography.labelLarge,
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
@@ -226,6 +234,7 @@ private fun ChatScreenContentPreview() {
                     ChatMessage("El Jem Amphitheatre is one of the best-preserved Roman amphitheatres.", false)
                 ),
                 input = "How old is it?",
+                strings = UiStrings(com.example.hannibalsguide.domain.model.AppLanguage.ENGLISH),
                 onInputChange = {},
                 onSend = {},
                 onBack = {}
